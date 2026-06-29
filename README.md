@@ -37,11 +37,13 @@ Pour qu'un recruteur ou un directeur comprenne la portée de ce projet, le repos
 ```text
 📦 Russia-Eurasia-Industrial-Project
  ┣ 📂 crm_simulation/       # Données Salesforce (Pipeline, Opportunités B2B)
- ┣ 📂 data/                 # Datasets EIII (Macro, Énergie, Industrie, Scores)
- ┣ 📂 excel/                # Simulation financière (CAPEX/OPEX type Air Liquide)
+ ┣ 📂 contexte/             # Espace d'analyses géopolitiques et données de simulation
+ ┃ ┣ 📂 data/               # Datasets EIII (Macro, Énergie, Industrie, Scores, CSV principal)
+ ┃ ┣ 📂 excel/              # Simulation financière (CAPEX/OPEX type Air Liquide, Excel)
+ ┃ ┣ 📂 python/             # Scripts et moteurs d'analyse de données (Pandas/Numpy)
+ ┃ ┣ 📂 report/             # Rapports stratégiques traduits en français (Markdown) et visuels
+ ┃ ┗ 📂 slack_simulation/   # Échanges de communications internes d'entreprise (TXT)
  ┣ 📂 powerbi/              # Fichiers sources pour dashboards analytiques
- ┣ 📂 python/               # Moteur de génération des datasets (Pandas/Numpy)
- ┣ 📂 report/               # Analyses contextuelles et rapports stratégiques (Markdown)
  ┣ 📂 sap_simulation/       # ERP : Cycles complets MM (Achat) & SD (Vente)
  ┗ 📂 sql/                  # Architecture Star Schema et requêtes analytiques BI
 ```
