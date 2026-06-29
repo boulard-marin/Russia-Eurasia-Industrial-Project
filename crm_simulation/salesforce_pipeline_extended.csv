@@ -1,0 +1,151 @@
+Opportunity_ID,Account_Name,Opportunity_Name,Lead_Source,Stage,Amount_EUR,Expected_Close_Date,Probability_pct,Risk_Level,Country,Decision_Maker
+OPP-10001,Global Dynamics,Gas Supply / Turkmenistan,Webinar,Qualified,3523051.84,2026-10-29,30,Low,Kazakhstan,CxO_58
+OPP-10002,Acme Ind.,Gas Supply / Georgia,Webinar,Closed Lost,2349019.95,2026-10-09,0,Medium,China,CxO_11
+OPP-10003,Global Dynamics,Gas Supply / India,Webinar,Lead,1247463.74,2026-12-07,10,High,India,CxO_96
+OPP-10004,Acme Ind.,Gas Supply / Kazakhstan,Trade Show,Closed Won,2488540.96,2026-11-18,100,None,Georgia,CxO_65
+OPP-10005,Eurasia Corp,Gas Supply / China,Referral,Closed Won,2901173.45,2026-12-06,100,None,India,CxO_48
+OPP-10006,Stark Mining,Gas Supply / India,Cold Call,Closed Lost,489856.77,2026-08-17,0,Medium,India,CxO_24
+OPP-10007,Future Industries,Gas Supply / China,Referral,Closed Lost,3954188.91,2026-12-21,0,Low,China,CxO_12
+OPP-10008,Acme Ind.,Gas Supply / Turkmenistan,Trade Show,Closed Won,4516495.89,2026-07-19,100,None,China,CxO_49
+OPP-10009,Stark Mining,Gas Supply / Kazakhstan,Cold Call,Qualified,4637620.81,2026-08-23,30,Medium,India,CxO_1
+OPP-10010,Future Industries,Gas Supply / Kazakhstan,Webinar,Qualified,3295959.38,2026-11-02,30,High,Georgia,CxO_23
+OPP-10011,Acme Ind.,Gas Supply / China,LinkedIn,Lead,3263084.87,2026-09-07,10,Low,Georgia,CxO_98
+OPP-10012,Future Industries,Gas Supply / Turkmenistan,Trade Show,Closed Lost,2574315.27,2026-10-17,0,Low,Kazakhstan,CxO_20
+OPP-10013,Global Dynamics,Gas Supply / Kazakhstan,Referral,Qualified,1380365.15,2026-09-19,30,Low,Kazakhstan,CxO_49
+OPP-10014,Future Industries,Gas Supply / India,Trade Show,Qualified,1122386.76,2026-06-05,30,Low,Kazakhstan,CxO_60
+OPP-10015,Stark Mining,Gas Supply / Georgia,Cold Call,Closed Won,325594.05,2026-09-02,100,None,India,CxO_48
+OPP-10016,Global Dynamics,Gas Supply / Russia,Cold Call,Closed Won,1838466.98,2026-09-20,100,None,Russia,CxO_3
+OPP-10017,Acme Ind.,Gas Supply / Georgia,LinkedIn,Closed Won,2550356.62,2026-05-04,100,None,Georgia,CxO_98
+OPP-10018,Acme Ind.,Gas Supply / India,Referral,Proposal,1968630.93,2026-07-17,50,High,India,CxO_32
+OPP-10019,Acme Ind.,Gas Supply / Georgia,LinkedIn,Proposal,2116649.28,2026-07-05,50,Medium,Turkmenistan,CxO_2
+OPP-10020,Future Industries,Gas Supply / Turkmenistan,Trade Show,Negotiation,483195.46,2026-09-26,70,High,Russia,CxO_93
+OPP-10021,Stark Mining,Gas Supply / Russia,Trade Show,Proposal,182134.68,2026-08-30,50,Low,Kazakhstan,CxO_25
+OPP-10022,Global Dynamics,Gas Supply / Georgia,Referral,Qualified,1140535.15,2026-08-21,30,High,Georgia,CxO_35
+OPP-10023,Acme Ind.,Gas Supply / Turkmenistan,LinkedIn,Qualified,139888.97,2026-04-26,30,Low,India,CxO_38
+OPP-10024,Stark Mining,Gas Supply / Kazakhstan,Cold Call,Qualified,743006.25,2026-08-21,30,Medium,China,CxO_60
+OPP-10025,Eurasia Corp,Gas Supply / Turkmenistan,LinkedIn,Lead,991957.25,2026-05-12,10,Medium,Kazakhstan,CxO_36
+OPP-10026,Stark Mining,Gas Supply / China,Referral,Closed Won,4923978.76,2026-05-02,100,None,Russia,CxO_94
+OPP-10027,Eurasia Corp,Gas Supply / Russia,Referral,Proposal,3287201.45,2026-12-22,50,Medium,Georgia,CxO_45
+OPP-10028,Eurasia Corp,Gas Supply / India,Cold Call,Lead,2787989.39,2026-04-02,10,Low,Kazakhstan,CxO_19
+OPP-10029,Stark Mining,Gas Supply / Georgia,Referral,Closed Won,466447.8,2026-04-19,100,None,Turkmenistan,CxO_83
+OPP-10030,Eurasia Corp,Gas Supply / China,Trade Show,Proposal,1977353.23,2026-04-28,50,High,Kazakhstan,CxO_34
+OPP-10031,Future Industries,Gas Supply / Kazakhstan,Trade Show,Closed Lost,1010511.74,2026-07-03,0,Low,India,CxO_1
+OPP-10032,Acme Ind.,Gas Supply / Russia,Webinar,Closed Won,1648552.38,2026-08-17,100,None,Russia,CxO_9
+OPP-10033,Global Dynamics,Gas Supply / China,LinkedIn,Closed Won,4744665.2,2026-10-21,100,None,China,CxO_7
+OPP-10034,Future Industries,Gas Supply / Russia,Referral,Lead,822955.66,2026-05-31,10,High,Kazakhstan,CxO_92
+OPP-10035,Future Industries,Gas Supply / Kazakhstan,Cold Call,Lead,772631.18,2026-06-17,10,Medium,Turkmenistan,CxO_84
+OPP-10036,Acme Ind.,Gas Supply / Russia,LinkedIn,Proposal,2382921.14,2026-06-02,50,Low,China,CxO_80
+OPP-10037,Stark Mining,Gas Supply / Turkmenistan,Referral,Qualified,3657911.39,2026-09-16,30,High,Russia,CxO_83
+OPP-10038,Eurasia Corp,Gas Supply / India,Cold Call,Closed Lost,630835.53,2026-08-18,0,Low,India,CxO_17
+OPP-10039,Future Industries,Gas Supply / Turkmenistan,Trade Show,Proposal,4288652.78,2026-12-13,50,Medium,Georgia,CxO_69
+OPP-10040,Acme Ind.,Gas Supply / Kazakhstan,Referral,Negotiation,1536632.98,2026-04-05,70,Low,Turkmenistan,CxO_7
+OPP-10041,Stark Mining,Gas Supply / Turkmenistan,LinkedIn,Proposal,2315942.06,2026-09-27,50,High,India,CxO_76
+OPP-10042,Future Industries,Gas Supply / Russia,LinkedIn,Closed Lost,4307148.8,2026-12-06,0,Low,Russia,CxO_56
+OPP-10043,Global Dynamics,Gas Supply / Russia,Webinar,Proposal,4712521.01,2026-11-25,50,Low,Kazakhstan,CxO_30
+OPP-10044,Global Dynamics,Gas Supply / China,Cold Call,Lead,482215.32,2026-03-29,10,High,Russia,CxO_86
+OPP-10045,Eurasia Corp,Gas Supply / India,Referral,Closed Lost,1194359.82,2026-05-22,0,High,China,CxO_51
+OPP-10046,Future Industries,Gas Supply / Georgia,Webinar,Negotiation,3760507.87,2026-06-30,70,Low,Georgia,CxO_96
+OPP-10047,Stark Mining,Gas Supply / Russia,LinkedIn,Closed Lost,4983529.1,2026-07-02,0,Medium,India,CxO_40
+OPP-10048,Eurasia Corp,Gas Supply / Russia,Referral,Qualified,381154.99,2026-12-21,30,High,Kazakhstan,CxO_11
+OPP-10049,Eurasia Corp,Gas Supply / Georgia,LinkedIn,Lead,2787660.19,2026-07-13,10,High,China,CxO_41
+OPP-10050,Future Industries,Gas Supply / Russia,LinkedIn,Closed Won,1437013.22,2026-11-30,100,None,China,CxO_72
+OPP-10051,Acme Ind.,Gas Supply / Georgia,Referral,Qualified,2004631.89,2026-08-04,30,Low,India,CxO_76
+OPP-10052,Global Dynamics,Gas Supply / India,Trade Show,Closed Lost,3919690.14,2026-07-03,0,Low,Russia,CxO_9
+OPP-10053,Future Industries,Gas Supply / Turkmenistan,Cold Call,Qualified,3336200.22,2026-12-02,30,High,Kazakhstan,CxO_83
+OPP-10054,Acme Ind.,Gas Supply / India,Referral,Qualified,2281085.76,2026-04-29,30,Low,India,CxO_53
+OPP-10055,Acme Ind.,Gas Supply / Turkmenistan,Referral,Lead,1086994.48,2026-08-19,10,Low,India,CxO_75
+OPP-10056,Global Dynamics,Gas Supply / China,Referral,Qualified,340210.81,2026-04-07,30,Low,India,CxO_30
+OPP-10057,Global Dynamics,Gas Supply / China,Cold Call,Negotiation,2859154.95,2026-06-17,70,Medium,Kazakhstan,CxO_49
+OPP-10058,Eurasia Corp,Gas Supply / Russia,Webinar,Lead,3327444.12,2026-12-06,10,Low,India,CxO_42
+OPP-10059,Eurasia Corp,Gas Supply / Russia,Referral,Closed Won,1379443.9,2026-06-12,100,None,India,CxO_48
+OPP-10060,Future Industries,Gas Supply / Georgia,Cold Call,Qualified,581683.4,2026-11-27,30,Low,Georgia,CxO_37
+OPP-10061,Future Industries,Gas Supply / Turkmenistan,Cold Call,Proposal,1365293.34,2026-07-29,50,Medium,India,CxO_96
+OPP-10062,Global Dynamics,Gas Supply / Russia,Cold Call,Qualified,4367341.3,2026-10-21,30,High,China,CxO_20
+OPP-10063,Acme Ind.,Gas Supply / Turkmenistan,Webinar,Proposal,4826356.16,2026-09-29,50,Medium,Kazakhstan,CxO_98
+OPP-10064,Global Dynamics,Gas Supply / Georgia,Cold Call,Closed Won,1636970.47,2026-11-10,100,None,Kazakhstan,CxO_8
+OPP-10065,Stark Mining,Gas Supply / China,Trade Show,Negotiation,2208175.8,2026-10-19,70,High,Kazakhstan,CxO_22
+OPP-10066,Global Dynamics,Gas Supply / Kazakhstan,Referral,Lead,3024931.81,2026-11-30,10,Low,Russia,CxO_29
+OPP-10067,Stark Mining,Gas Supply / India,Referral,Proposal,2241953.41,2026-08-09,50,Medium,Russia,CxO_88
+OPP-10068,Stark Mining,Gas Supply / India,Trade Show,Closed Won,3878941.9,2026-06-27,100,None,Russia,CxO_53
+OPP-10069,Acme Ind.,Gas Supply / Russia,Trade Show,Closed Lost,2847029.59,2026-12-14,0,Medium,China,CxO_73
+OPP-10070,Acme Ind.,Gas Supply / India,Cold Call,Proposal,4845335.89,2026-09-30,50,High,China,CxO_74
+OPP-10071,Eurasia Corp,Gas Supply / China,LinkedIn,Lead,3187698.31,2026-10-12,10,Low,Georgia,CxO_23
+OPP-10072,Future Industries,Gas Supply / Turkmenistan,Referral,Closed Lost,3005164.81,2026-07-19,0,Medium,Russia,CxO_73
+OPP-10073,Acme Ind.,Gas Supply / Turkmenistan,Referral,Closed Won,1878544.73,2026-07-31,100,None,Georgia,CxO_71
+OPP-10074,Eurasia Corp,Gas Supply / China,LinkedIn,Negotiation,3845483.61,2026-12-02,70,Low,Kazakhstan,CxO_26
+OPP-10075,Stark Mining,Gas Supply / China,Trade Show,Proposal,1864478.97,2026-12-15,50,High,Turkmenistan,CxO_51
+OPP-10076,Stark Mining,Gas Supply / Kazakhstan,Cold Call,Proposal,1055663.18,2026-06-28,50,High,Russia,CxO_24
+OPP-10077,Future Industries,Gas Supply / China,Trade Show,Proposal,3856123.55,2026-08-19,50,High,China,CxO_31
+OPP-10078,Global Dynamics,Gas Supply / Kazakhstan,Cold Call,Closed Won,1435909.5,2026-10-23,100,None,Georgia,CxO_17
+OPP-10079,Stark Mining,Gas Supply / China,Trade Show,Closed Won,872976.73,2026-05-17,100,None,China,CxO_30
+OPP-10080,Global Dynamics,Gas Supply / Georgia,Cold Call,Negotiation,595779.74,2026-12-21,70,Low,Kazakhstan,CxO_4
+OPP-10081,Future Industries,Gas Supply / Russia,LinkedIn,Lead,4031789.28,2026-11-08,10,Low,Kazakhstan,CxO_23
+OPP-10082,Acme Ind.,Gas Supply / India,LinkedIn,Qualified,1990531.76,2026-07-20,30,Medium,Georgia,CxO_55
+OPP-10083,Eurasia Corp,Gas Supply / Russia,LinkedIn,Qualified,3990212.24,2026-09-25,30,Medium,Kazakhstan,CxO_55
+OPP-10084,Acme Ind.,Gas Supply / China,Referral,Lead,513826.32,2026-04-22,10,Low,Georgia,CxO_41
+OPP-10085,Eurasia Corp,Gas Supply / Kazakhstan,Referral,Negotiation,1513642.22,2026-05-23,70,Medium,Turkmenistan,CxO_6
+OPP-10086,Stark Mining,Gas Supply / India,LinkedIn,Proposal,4527757.33,2026-04-19,50,Medium,Georgia,CxO_79
+OPP-10087,Future Industries,Gas Supply / Kazakhstan,Referral,Lead,4399219.72,2026-04-23,10,Low,Georgia,CxO_8
+OPP-10088,Future Industries,Gas Supply / Russia,LinkedIn,Lead,2492516.58,2026-08-06,10,Low,India,CxO_51
+OPP-10089,Global Dynamics,Gas Supply / Kazakhstan,Trade Show,Closed Won,2049369.93,2026-07-23,100,None,Russia,CxO_63
+OPP-10090,Eurasia Corp,Gas Supply / Russia,LinkedIn,Lead,664220.73,2026-09-16,10,Medium,Russia,CxO_87
+OPP-10091,Stark Mining,Gas Supply / China,Trade Show,Lead,305980.33,2026-10-19,10,Low,Russia,CxO_54
+OPP-10092,Global Dynamics,Gas Supply / India,Trade Show,Lead,4263054.25,2026-04-17,10,High,Russia,CxO_63
+OPP-10093,Future Industries,Gas Supply / India,Cold Call,Closed Lost,3702893.57,2026-03-28,0,Medium,Turkmenistan,CxO_69
+OPP-10094,Acme Ind.,Gas Supply / Georgia,Trade Show,Lead,2625960.9,2026-09-04,10,Medium,Kazakhstan,CxO_28
+OPP-10095,Eurasia Corp,Gas Supply / Russia,Referral,Closed Lost,3495332.48,2026-04-09,0,Low,India,CxO_77
+OPP-10096,Acme Ind.,Gas Supply / Kazakhstan,Referral,Proposal,3682596.48,2026-04-16,50,Low,Georgia,CxO_39
+OPP-10097,Future Industries,Gas Supply / Georgia,Webinar,Closed Lost,2653347.18,2026-12-09,0,Medium,China,CxO_52
+OPP-10098,Eurasia Corp,Gas Supply / India,Cold Call,Lead,2255016.19,2026-11-25,10,Low,Turkmenistan,CxO_85
+OPP-10099,Eurasia Corp,Gas Supply / China,LinkedIn,Closed Lost,1313195.88,2026-07-12,0,Low,Georgia,CxO_61
+OPP-10100,Global Dynamics,Gas Supply / India,Cold Call,Closed Won,1908726.86,2026-10-11,100,None,Turkmenistan,CxO_8
+OPP-10101,Eurasia Corp,Gas Supply / India,Referral,Negotiation,4122540.96,2026-06-20,70,Medium,Georgia,CxO_15
+OPP-10102,Eurasia Corp,Gas Supply / India,Webinar,Proposal,1116635.25,2026-10-14,50,Medium,Georgia,CxO_26
+OPP-10103,Eurasia Corp,Gas Supply / Russia,Referral,Lead,1622722.0,2026-11-24,10,High,Russia,CxO_58
+OPP-10104,Eurasia Corp,Gas Supply / Kazakhstan,Trade Show,Closed Lost,4782806.7,2026-05-09,0,Low,India,CxO_59
+OPP-10105,Acme Ind.,Gas Supply / India,Cold Call,Proposal,3886434.67,2026-11-15,50,Low,Turkmenistan,CxO_36
+OPP-10106,Global Dynamics,Gas Supply / China,LinkedIn,Lead,4431430.73,2026-06-07,10,Medium,Russia,CxO_8
+OPP-10107,Acme Ind.,Gas Supply / Turkmenistan,Trade Show,Qualified,489849.41,2026-10-12,30,Low,Georgia,CxO_33
+OPP-10108,Eurasia Corp,Gas Supply / China,Cold Call,Lead,3607592.04,2026-04-18,10,High,India,CxO_99
+OPP-10109,Global Dynamics,Gas Supply / Russia,Cold Call,Closed Won,4862791.15,2026-10-14,100,None,Kazakhstan,CxO_51
+OPP-10110,Eurasia Corp,Gas Supply / Turkmenistan,Webinar,Negotiation,2818040.6,2026-06-13,70,High,Russia,CxO_59
+OPP-10111,Eurasia Corp,Gas Supply / Russia,Trade Show,Closed Won,4659369.57,2026-08-14,100,None,Georgia,CxO_7
+OPP-10112,Stark Mining,Gas Supply / Kazakhstan,Trade Show,Negotiation,4187225.33,2026-05-11,70,Medium,Kazakhstan,CxO_56
+OPP-10113,Global Dynamics,Gas Supply / Kazakhstan,Cold Call,Lead,609882.52,2026-04-26,10,Medium,Kazakhstan,CxO_89
+OPP-10114,Global Dynamics,Gas Supply / China,Cold Call,Proposal,2701487.41,2026-08-07,50,Medium,India,CxO_91
+OPP-10115,Future Industries,Gas Supply / Georgia,Referral,Closed Lost,2125416.9,2026-07-08,0,High,Russia,CxO_18
+OPP-10116,Stark Mining,Gas Supply / Turkmenistan,Webinar,Qualified,4182359.38,2026-04-30,30,Medium,Turkmenistan,CxO_69
+OPP-10117,Stark Mining,Gas Supply / Turkmenistan,Cold Call,Lead,3123271.58,2026-09-07,10,High,Georgia,CxO_34
+OPP-10118,Future Industries,Gas Supply / Georgia,Cold Call,Proposal,2392537.38,2026-07-08,50,Low,Turkmenistan,CxO_83
+OPP-10119,Acme Ind.,Gas Supply / Russia,Referral,Proposal,3616852.85,2026-07-21,50,Low,India,CxO_77
+OPP-10120,Eurasia Corp,Gas Supply / India,Referral,Proposal,1773739.39,2026-08-18,50,Medium,China,CxO_67
+OPP-10121,Future Industries,Gas Supply / India,Webinar,Closed Lost,4112262.71,2026-04-15,0,High,Kazakhstan,CxO_9
+OPP-10122,Global Dynamics,Gas Supply / Turkmenistan,Webinar,Proposal,4792965.14,2026-07-25,50,Medium,Kazakhstan,CxO_100
+OPP-10123,Eurasia Corp,Gas Supply / China,Cold Call,Proposal,3757044.91,2026-05-14,50,Medium,Georgia,CxO_100
+OPP-10124,Acme Ind.,Gas Supply / China,LinkedIn,Negotiation,3152866.14,2026-11-29,70,Medium,Kazakhstan,CxO_88
+OPP-10125,Acme Ind.,Gas Supply / Georgia,Referral,Qualified,3294614.3,2026-11-14,30,Low,Turkmenistan,CxO_55
+OPP-10126,Stark Mining,Gas Supply / Russia,Trade Show,Negotiation,4578266.83,2026-07-06,70,High,Kazakhstan,CxO_80
+OPP-10127,Acme Ind.,Gas Supply / China,Webinar,Closed Lost,807928.55,2026-10-13,0,Low,China,CxO_79
+OPP-10128,Acme Ind.,Gas Supply / Turkmenistan,Trade Show,Closed Won,172237.11,2026-05-15,100,None,India,CxO_13
+OPP-10129,Future Industries,Gas Supply / Kazakhstan,Cold Call,Closed Lost,223540.5,2026-05-08,0,High,Russia,CxO_77
+OPP-10130,Stark Mining,Gas Supply / India,Trade Show,Negotiation,198550.1,2026-05-25,70,High,Kazakhstan,CxO_50
+OPP-10131,Future Industries,Gas Supply / Georgia,Referral,Qualified,4324653.88,2026-05-11,30,Low,Georgia,CxO_68
+OPP-10132,Future Industries,Gas Supply / Kazakhstan,Webinar,Negotiation,2847788.46,2026-04-22,70,High,China,CxO_27
+OPP-10133,Future Industries,Gas Supply / Georgia,Trade Show,Closed Won,2286471.78,2026-06-26,100,None,Kazakhstan,CxO_75
+OPP-10134,Future Industries,Gas Supply / India,LinkedIn,Closed Lost,1658622.56,2026-04-01,0,Medium,Russia,CxO_9
+OPP-10135,Global Dynamics,Gas Supply / China,Trade Show,Proposal,4661726.2,2026-08-04,50,Medium,Turkmenistan,CxO_80
+OPP-10136,Stark Mining,Gas Supply / Turkmenistan,Referral,Proposal,3427834.06,2026-05-28,50,Low,Russia,CxO_94
+OPP-10137,Global Dynamics,Gas Supply / Russia,Trade Show,Closed Lost,4758871.39,2026-11-12,0,Low,India,CxO_38
+OPP-10138,Stark Mining,Gas Supply / Russia,Trade Show,Closed Won,1736728.13,2026-06-12,100,None,Kazakhstan,CxO_43
+OPP-10139,Acme Ind.,Gas Supply / Russia,Webinar,Lead,265983.53,2026-11-04,10,Medium,Russia,CxO_90
+OPP-10140,Eurasia Corp,Gas Supply / China,LinkedIn,Qualified,2343651.06,2026-11-07,30,High,Kazakhstan,CxO_13
+OPP-10141,Global Dynamics,Gas Supply / Georgia,LinkedIn,Proposal,3412132.03,2026-12-20,50,Medium,China,CxO_31
+OPP-10142,Global Dynamics,Gas Supply / India,Trade Show,Closed Won,2038621.0,2026-05-05,100,None,Kazakhstan,CxO_17
+OPP-10143,Acme Ind.,Gas Supply / China,Cold Call,Proposal,4697520.99,2026-10-03,50,High,Georgia,CxO_98
+OPP-10144,Future Industries,Gas Supply / Kazakhstan,Trade Show,Lead,4683512.66,2026-08-29,10,Medium,Turkmenistan,CxO_88
+OPP-10145,Eurasia Corp,Gas Supply / Georgia,Cold Call,Proposal,3486807.72,2026-05-23,50,Medium,India,CxO_45
+OPP-10146,Future Industries,Gas Supply / Georgia,Webinar,Closed Lost,2050498.07,2026-11-25,0,High,India,CxO_91
+OPP-10147,Future Industries,Gas Supply / Turkmenistan,Webinar,Negotiation,2709406.43,2026-05-22,70,Medium,Turkmenistan,CxO_61
+OPP-10148,Stark Mining,Gas Supply / China,Webinar,Proposal,1505347.7,2026-12-15,50,High,China,CxO_82
+OPP-10149,Eurasia Corp,Gas Supply / Russia,Referral,Proposal,4423900.93,2026-10-13,50,Medium,Russia,CxO_9
+OPP-10150,Future Industries,Gas Supply / India,Referral,Qualified,4554443.96,2026-07-25,30,Medium,India,CxO_55

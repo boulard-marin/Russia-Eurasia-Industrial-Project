@@ -1,0 +1,4 @@
+PO ID,Country,Item,Supplier Risk,Payment Status,Comment
+PO-RU-001,Russia,Cryogenic equipment,High,Blocked,Sanctions/payment risk
+PO-KZ-001,Kazakhstan,Bulk storage tanks,Medium,Review,Transit exposure
+PO-IN-001,India,Compressors,Low,Open,Standard procurement

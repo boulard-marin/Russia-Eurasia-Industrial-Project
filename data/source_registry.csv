@@ -1,0 +1,21 @@
+source_name,coverage,url,usage_status
+World Bank,"Macro, trade, logistics indicators",https://api.worldbank.org/v2/,Used directly in CSV
+IMF DataMapper/WEO,GDP/inflation cross-check source,https://www.imf.org/external/datamapper/,Source registry; scripts can be extended
+OECD,FDI and country risk cross-check,https://data-explorer.oecd.org/,Source registry
+UN Comtrade,Bilateral goods trade flows,https://comtradeplus.un.org/,DATA NOT AVAILABLE PUBLICLY in this run without robust API/key workflow
+WTO,Trade policy and goods/services trade,https://stats.wto.org/,Source registry
+IEA,Energy balances and prices,https://www.iea.org/data-and-statistics,DATA NOT AVAILABLE PUBLICLY for many detailed series without license/login
+Rosstat,Russia official industrial statistics,https://rosstat.gov.ru/,Mandatory source registry; not programmatically ingested here
+Central Bank of Russia,USD/RUB official daily rates,https://www.cbr.ru/scripts/XML_dynamic.asp,Used directly in raw CBR file
+Gazprom,Gas production/capacity reports,https://www.gazprom.com/investors/disclosure/reports/,Source registry; report extraction required
+Rosneft,Oil production reports,https://www.rosneft.com/Investors/reports_and_presentations/annual_reports/,Source registry; report extraction required
+Russia Ministry of Economy,Macro/industry outlook,https://www.economy.gov.ru/,Source registry
+NBS China,China industrial statistics,https://www.stats.gov.cn/english/,Mandatory source registry; not programmatically ingested here
+China Customs,China trade statistics,http://english.customs.gov.cn/,Mandatory source registry
+China Energy Yearbook,China energy data,https://www.stats.gov.cn/sj/ndsj/,DATA NOT AVAILABLE PUBLICLY as direct machine-readable API in this run
+India MOSPI,India official statistics,https://www.mospi.gov.in/,Source registry
+Kazakhstan Statistics Bureau,Kazakhstan official statistics,https://stat.gov.kz/en/,Source registry
+Asian Development Bank,Central Asia macro/industry data,https://data.adb.org/,Source registry
+Air Liquide,Company financials and industrial project benchmarks,https://www.airliquide.com/investors/regulated-information,Used in company CSV / simulation assumptions
+Council of the EU,Russia sanctions documentation,https://www.consilium.europa.eu/en/policies/sanctions-against-russia/,Used to document sanctions methodology
+U.S. Treasury OFAC,Russia sanctions documentation,https://ofac.treasury.gov/sanctions-programs-and-country-information/russia-related-sanctions,Used to document sanctions methodology

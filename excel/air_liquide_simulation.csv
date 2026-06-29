@@ -1,0 +1,7 @@
+country,plant_location,CAPEX_estimate_M,OPEX_energy_M,logistics_cost_M,expected_revenue_M,ROI_base_pct,ROI_risk_adjusted_pct,break_even_years,investment_decision
+Russia,Russia_Industrial_Zone_A,82.35,14.52,2.03,21.33,8.27,5.63,12.1,AVOID
+China,China_Industrial_Zone_A,85.89,14.75,1.94,27.07,14.34,8.71,7.0,WAIT
+India,India_Industrial_Zone_A,60.04,9.93,1.28,14.64,7.84,5.04,12.7,AVOID
+Kazakhstan,Kazakhstan_Industrial_Zone_A,77.96,15.72,2.39,15.7,-0.03,-0.02,99.9,AVOID
+Turkmenistan,Turkmenistan_Industrial_Zone_A,160.98,17.63,2.66,53.8,22.47,15.69,4.5,INVEST
+Georgia,Georgia_Industrial_Zone_A,141.88,28.75,4.25,50.61,15.41,10.31,6.5,WAIT
