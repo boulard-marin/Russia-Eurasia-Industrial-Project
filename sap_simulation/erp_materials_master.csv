@@ -1,0 +1,10 @@
+MaterialID,Description,Type,Unit,UnitPrice
+MAT-001,Liquid Oxygen (LOX),Finished,Ton,150.0
+MAT-002,Liquid Nitrogen (LIN),Finished,Ton,120.0
+MAT-003,Liquid Argon (LAR),Finished,Ton,400.0
+MAT-004,Hydrogen Gas (H2),Finished,Nm3,2.5
+MAT-005,Helium Gas (He),Finished,Nm3,15.0
+RAW-001,Electricity (Industrial),Raw,MWh,45.0
+RAW-002,Cooling Water,Raw,m3,0.8
+RAW-003,Compressor Oil,Raw,Liter,12.0
+RAW-004,Maintenance Spare Parts,Raw,Piece,500.0

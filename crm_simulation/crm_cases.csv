@@ -1,0 +1,86 @@
+CaseID,AccountID,Subject,Status,Priority
+CAS-A6E5371F,ACC-1002,Purity Issue,In Progress,High
+CAS-C1B5C712,ACC-1005,Tank Maintenance Request,Closed,Medium
+CAS-CA39A094,ACC-1005,Purity Issue,In Progress,Low
+CAS-6AA9465E,ACC-1011,Invoice Query,New,High
+CAS-8695D975,ACC-1011,Purity Issue,Closed,Medium
+CAS-69F12E41,ACC-1013,Purity Issue,Closed,Critical
+CAS-36A9C93C,ACC-1013,Tank Maintenance Request,Resolved,Critical
+CAS-A3A39901,ACC-1021,Contract Renewal,Resolved,High
+CAS-B9671835,ACC-1021,Invoice Query,In Progress,Critical
+CAS-81147EB4,ACC-1022,Invoice Query,In Progress,Low
+CAS-AB8754DB,ACC-1022,Tank Maintenance Request,Resolved,High
+CAS-39704ABF,ACC-1023,Tank Maintenance Request,New,Low
+CAS-F9856EE0,ACC-1023,Purity Issue,In Progress,High
+CAS-F70FCE63,ACC-1024,Contract Renewal,In Progress,High
+CAS-8CD05B65,ACC-1024,Contract Renewal,Closed,Low
+CAS-151A7C10,ACC-1025,Delivery Delay,Closed,Medium
+CAS-3CEFA363,ACC-1025,Tank Maintenance Request,Resolved,Critical
+CAS-1A9E3422,ACC-1032,Contract Renewal,Closed,Medium
+CAS-E38961C4,ACC-1032,Delivery Delay,Closed,High
+CAS-3FB2FCC8,ACC-1034,Invoice Query,Closed,Medium
+CAS-F185674A,ACC-1034,Tank Maintenance Request,In Progress,Medium
+CAS-AE06A2E9,ACC-1038,Tank Maintenance Request,Resolved,Low
+CAS-ADAFABF4,ACC-1038,Purity Issue,New,Medium
+CAS-86C1CBAD,ACC-1039,Purity Issue,Closed,Critical
+CAS-C30D0220,ACC-1039,Delivery Delay,New,Critical
+CAS-55E26BCA,ACC-1046,Purity Issue,Resolved,Critical
+CAS-2D3D73EC,ACC-1050,Contract Renewal,In Progress,Low
+CAS-29EFEE7D,ACC-1050,Invoice Query,In Progress,Critical
+CAS-E010041D,ACC-1051,Invoice Query,Closed,Medium
+CAS-7410FFA2,ACC-1051,Tank Maintenance Request,In Progress,Critical
+CAS-6CDA9812,ACC-1052,Contract Renewal,New,High
+CAS-CAFF02F4,ACC-1055,Delivery Delay,New,Critical
+CAS-18507F65,ACC-1055,Contract Renewal,New,Medium
+CAS-E7A42510,ACC-1057,Purity Issue,Closed,Critical
+CAS-163BF96D,ACC-1061,Contract Renewal,Resolved,Low
+CAS-B58EC2FC,ACC-1061,Tank Maintenance Request,In Progress,Low
+CAS-F978FF8B,ACC-1062,Tank Maintenance Request,In Progress,Low
+CAS-C871976A,ACC-1062,Delivery Delay,Closed,Critical
+CAS-8CA7B963,ACC-1066,Purity Issue,In Progress,High
+CAS-D7CF992C,ACC-1067,Delivery Delay,Closed,Medium
+CAS-6603BFB9,ACC-1067,Tank Maintenance Request,In Progress,Medium
+CAS-33903FE8,ACC-1074,Purity Issue,In Progress,Critical
+CAS-66EF9351,ACC-1076,Delivery Delay,New,Critical
+CAS-1D9515FB,ACC-1084,Purity Issue,Closed,Low
+CAS-572573E6,ACC-1084,Delivery Delay,New,High
+CAS-8B57A887,ACC-1086,Delivery Delay,Resolved,Critical
+CAS-3611CC28,ACC-1086,Delivery Delay,In Progress,High
+CAS-4A50B2AE,ACC-1088,Purity Issue,Resolved,Critical
+CAS-98343393,ACC-1088,Purity Issue,Resolved,Critical
+CAS-7EA7B6DC,ACC-1091,Invoice Query,Closed,Critical
+CAS-AC30CD6C,ACC-1091,Contract Renewal,New,Critical
+CAS-645BE38B,ACC-1094,Purity Issue,Closed,High
+CAS-3B4F2817,ACC-1097,Tank Maintenance Request,Closed,Low
+CAS-07132643,ACC-1098,Invoice Query,In Progress,Critical
+CAS-45370ED4,ACC-1100,Delivery Delay,Resolved,High
+CAS-A580C510,ACC-1100,Tank Maintenance Request,In Progress,High
+CAS-F884E00D,ACC-1101,Delivery Delay,In Progress,Medium
+CAS-0719EF29,ACC-1106,Contract Renewal,In Progress,Low
+CAS-9EF07464,ACC-1111,Delivery Delay,Resolved,Low
+CAS-A0F2495F,ACC-1111,Invoice Query,Closed,Medium
+CAS-E25A820A,ACC-1112,Invoice Query,New,Critical
+CAS-49DEBE58,ACC-1112,Purity Issue,In Progress,Low
+CAS-02FCC695,ACC-1114,Tank Maintenance Request,Resolved,Medium
+CAS-96055F2C,ACC-1115,Tank Maintenance Request,In Progress,Medium
+CAS-8D796902,ACC-1115,Invoice Query,Resolved,Low
+CAS-374B4320,ACC-1119,Purity Issue,In Progress,Low
+CAS-4302FF50,ACC-1123,Contract Renewal,Closed,Critical
+CAS-AC599A4E,ACC-1123,Tank Maintenance Request,Closed,High
+CAS-53B37476,ACC-1124,Delivery Delay,New,High
+CAS-0F003804,ACC-1129,Tank Maintenance Request,In Progress,High
+CAS-0528C447,ACC-1129,Purity Issue,Resolved,Medium
+CAS-9455B8F7,ACC-1130,Contract Renewal,In Progress,Medium
+CAS-6468E356,ACC-1134,Contract Renewal,Closed,High
+CAS-5B784B5D,ACC-1137,Tank Maintenance Request,Resolved,Medium
+CAS-1C2A6A1C,ACC-1138,Contract Renewal,Resolved,Medium
+CAS-2CBA381B,ACC-1138,Delivery Delay,In Progress,Critical
+CAS-FB58B4B2,ACC-1139,Purity Issue,In Progress,High
+CAS-AFFCBF46,ACC-1143,Tank Maintenance Request,Resolved,Low
+CAS-0C5CE455,ACC-1143,Tank Maintenance Request,Closed,Critical
+CAS-5F586AA5,ACC-1146,Contract Renewal,Closed,Critical
+CAS-6A660502,ACC-1148,Contract Renewal,Resolved,Medium
+CAS-6FCD39A5,ACC-1148,Tank Maintenance Request,Resolved,High
+CAS-74DFF35A,ACC-1149,Tank Maintenance Request,In Progress,Low
+CAS-DC31067C,ACC-1150,Tank Maintenance Request,Resolved,Critical
+CAS-C133F331,ACC-1150,Tank Maintenance Request,Closed,High

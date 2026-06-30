@@ -1,0 +1,151 @@
+AccountID,Name,Industry,City,Status
+ACC-1001,Gaz Prom LLC,Metallurgy,Nizhny Novgorod,Active
+ACC-1002,Nizhny Med LLC,Automotive,Dzerzhinsk,Onboarding
+ACC-1003,Volga Food LLC,Electronics,Nizhny Novgorod,Active
+ACC-1004,Rus Zavod LLC,Metallurgy,Bor,Inactive
+ACC-1005,Sormovo Motors LLC,Food & Beverage,Kstovo,Active
+ACC-1006,Oka Alloys LLC,Chemicals,Kstovo,Active
+ACC-1007,Oka Med LLC,Electronics,Nizhny Novgorod,Active
+ACC-1008,Tech Tech LLC,Metallurgy,Bor,Onboarding
+ACC-1009,Oka Food LLC,Automotive,Nizhny Novgorod,Inactive
+ACC-1010,Euro Motors LLC,Chemicals,Bor,Onboarding
+ACC-1011,Avto Motors LLC,Automotive,Nizhny Novgorod,Active
+ACC-1012,Gorky Group LLC,Food & Beverage,Nizhny Novgorod,Inactive
+ACC-1013,Avto Med LLC,Food & Beverage,Nizhny Novgorod,Inactive
+ACC-1014,Gaz Zavod LLC,Healthcare,Nizhny Novgorod,Onboarding
+ACC-1015,Tech Group LLC,Metallurgy,Bor,Active
+ACC-1016,Nizhny Steel LLC,Chemicals,Nizhny Novgorod,Active
+ACC-1017,Tech Chem LLC,Food & Beverage,Nizhny Novgorod,Active
+ACC-1018,Avto Food LLC,Food & Beverage,Nizhny Novgorod,Active
+ACC-1019,Gorky Prom LLC,Electronics,Nizhny Novgorod,Active
+ACC-1020,Oka Food LLC,Automotive,Kstovo,Active
+ACC-1021,Tech Steel LLC,Electronics,Arzamas,Onboarding
+ACC-1022,Oka Tech LLC,Automotive,Nizhny Novgorod,Active
+ACC-1023,Euro Chem LLC,Food & Beverage,Nizhny Novgorod,Inactive
+ACC-1024,Tech Chem LLC,Food & Beverage,Nizhny Novgorod,Active
+ACC-1025,Euro Chem LLC,Chemicals,Nizhny Novgorod,Active
+ACC-1026,Nizhny Zavod LLC,Electronics,Nizhny Novgorod,Active
+ACC-1027,Rus Group LLC,Electronics,Nizhny Novgorod,Active
+ACC-1028,Avto Steel LLC,Food & Beverage,Nizhny Novgorod,Inactive
+ACC-1029,Sormovo Zavod LLC,Healthcare,Nizhny Novgorod,Onboarding
+ACC-1030,Euro Group LLC,Food & Beverage,Nizhny Novgorod,Active
+ACC-1031,Gaz Group LLC,Chemicals,Nizhny Novgorod,Onboarding
+ACC-1032,Rus Food LLC,Electronics,Dzerzhinsk,Active
+ACC-1033,Euro Steel LLC,Automotive,Arzamas,Active
+ACC-1034,Sormovo Tech LLC,Healthcare,Nizhny Novgorod,Inactive
+ACC-1035,Volga Chem LLC,Healthcare,Bor,Active
+ACC-1036,Nizhny Food LLC,Food & Beverage,Nizhny Novgorod,Active
+ACC-1037,Tech Food LLC,Automotive,Kstovo,Active
+ACC-1038,Sormovo Tech LLC,Metallurgy,Nizhny Novgorod,Onboarding
+ACC-1039,Tech Group LLC,Chemicals,Nizhny Novgorod,Active
+ACC-1040,Volga Motors LLC,Metallurgy,Kstovo,Inactive
+ACC-1041,Gaz Alloys LLC,Automotive,Bor,Active
+ACC-1042,Oka Prom LLC,Healthcare,Bor,Onboarding
+ACC-1043,Gaz Zavod LLC,Electronics,Arzamas,Inactive
+ACC-1044,Volga Group LLC,Automotive,Kstovo,Active
+ACC-1045,Euro Steel LLC,Food & Beverage,Nizhny Novgorod,Active
+ACC-1046,Euro Chem LLC,Food & Beverage,Nizhny Novgorod,Active
+ACC-1047,Gorky Prom LLC,Automotive,Nizhny Novgorod,Inactive
+ACC-1048,Gaz Chem LLC,Metallurgy,Nizhny Novgorod,Active
+ACC-1049,Tech Food LLC,Electronics,Nizhny Novgorod,Inactive
+ACC-1050,Gaz Food LLC,Electronics,Nizhny Novgorod,Active
+ACC-1051,Avto Prom LLC,Healthcare,Nizhny Novgorod,Active
+ACC-1052,Volga Prom LLC,Chemicals,Nizhny Novgorod,Active
+ACC-1053,Gorky Med LLC,Electronics,Nizhny Novgorod,Inactive
+ACC-1054,Nizhny Prom LLC,Food & Beverage,Nizhny Novgorod,Inactive
+ACC-1055,Gaz Group LLC,Metallurgy,Nizhny Novgorod,Active
+ACC-1056,Rus Zavod LLC,Healthcare,Nizhny Novgorod,Active
+ACC-1057,Gorky Motors LLC,Automotive,Bor,Inactive
+ACC-1058,Volga Motors LLC,Healthcare,Arzamas,Active
+ACC-1059,Gorky Chem LLC,Healthcare,Nizhny Novgorod,Active
+ACC-1060,Nizhny Motors LLC,Healthcare,Nizhny Novgorod,Inactive
+ACC-1061,Tech Group LLC,Healthcare,Nizhny Novgorod,Inactive
+ACC-1062,Oka Zavod LLC,Chemicals,Arzamas,Onboarding
+ACC-1063,Gorky Group LLC,Metallurgy,Nizhny Novgorod,Inactive
+ACC-1064,Tech Zavod LLC,Electronics,Nizhny Novgorod,Active
+ACC-1065,Gaz Motors LLC,Food & Beverage,Nizhny Novgorod,Inactive
+ACC-1066,Oka Food LLC,Electronics,Nizhny Novgorod,Onboarding
+ACC-1067,Oka Tech LLC,Food & Beverage,Kstovo,Onboarding
+ACC-1068,Volga Chem LLC,Metallurgy,Nizhny Novgorod,Onboarding
+ACC-1069,Sormovo Chem LLC,Food & Beverage,Nizhny Novgorod,Active
+ACC-1070,Volga Motors LLC,Automotive,Nizhny Novgorod,Active
+ACC-1071,Gorky Zavod LLC,Electronics,Nizhny Novgorod,Onboarding
+ACC-1072,Nizhny Food LLC,Metallurgy,Arzamas,Active
+ACC-1073,Avto Motors LLC,Metallurgy,Nizhny Novgorod,Inactive
+ACC-1074,Gaz Food LLC,Food & Beverage,Nizhny Novgorod,Active
+ACC-1075,Gaz Prom LLC,Automotive,Nizhny Novgorod,Inactive
+ACC-1076,Gaz Zavod LLC,Chemicals,Nizhny Novgorod,Active
+ACC-1077,Sormovo Tech LLC,Chemicals,Nizhny Novgorod,Active
+ACC-1078,Tech Med LLC,Food & Beverage,Bor,Inactive
+ACC-1079,Rus Zavod LLC,Metallurgy,Nizhny Novgorod,Active
+ACC-1080,Nizhny Alloys LLC,Food & Beverage,Nizhny Novgorod,Inactive
+ACC-1081,Volga Steel LLC,Healthcare,Nizhny Novgorod,Inactive
+ACC-1082,Gorky Zavod LLC,Metallurgy,Nizhny Novgorod,Active
+ACC-1083,Tech Motors LLC,Metallurgy,Nizhny Novgorod,Active
+ACC-1084,Avto Food LLC,Metallurgy,Nizhny Novgorod,Active
+ACC-1085,Nizhny Steel LLC,Healthcare,Bor,Active
+ACC-1086,Tech Med LLC,Electronics,Nizhny Novgorod,Active
+ACC-1087,Gorky Alloys LLC,Chemicals,Nizhny Novgorod,Active
+ACC-1088,Avto Tech LLC,Healthcare,Dzerzhinsk,Active
+ACC-1089,Sormovo Food LLC,Chemicals,Nizhny Novgorod,Onboarding
+ACC-1090,Tech Steel LLC,Food & Beverage,Arzamas,Active
+ACC-1091,Avto Food LLC,Automotive,Nizhny Novgorod,Active
+ACC-1092,Tech Chem LLC,Electronics,Nizhny Novgorod,Inactive
+ACC-1093,Euro Motors LLC,Food & Beverage,Kstovo,Inactive
+ACC-1094,Oka Alloys LLC,Chemicals,Nizhny Novgorod,Active
+ACC-1095,Gorky Tech LLC,Healthcare,Nizhny Novgorod,Active
+ACC-1096,Euro Steel LLC,Automotive,Nizhny Novgorod,Active
+ACC-1097,Sormovo Group LLC,Electronics,Nizhny Novgorod,Active
+ACC-1098,Rus Motors LLC,Healthcare,Nizhny Novgorod,Inactive
+ACC-1099,Rus Med LLC,Automotive,Arzamas,Inactive
+ACC-1100,Sormovo Tech LLC,Healthcare,Kstovo,Active
+ACC-1101,Volga Alloys LLC,Automotive,Nizhny Novgorod,Active
+ACC-1102,Avto Alloys LLC,Metallurgy,Nizhny Novgorod,Inactive
+ACC-1103,Oka Motors LLC,Metallurgy,Arzamas,Onboarding
+ACC-1104,Euro Alloys LLC,Food & Beverage,Nizhny Novgorod,Active
+ACC-1105,Gorky Alloys LLC,Chemicals,Nizhny Novgorod,Onboarding
+ACC-1106,Avto Tech LLC,Metallurgy,Nizhny Novgorod,Active
+ACC-1107,Nizhny Chem LLC,Metallurgy,Arzamas,Inactive
+ACC-1108,Oka Med LLC,Healthcare,Arzamas,Active
+ACC-1109,Euro Chem LLC,Electronics,Bor,Active
+ACC-1110,Gaz Med LLC,Electronics,Nizhny Novgorod,Inactive
+ACC-1111,Oka Chem LLC,Metallurgy,Nizhny Novgorod,Inactive
+ACC-1112,Euro Med LLC,Food & Beverage,Nizhny Novgorod,Active
+ACC-1113,Volga Motors LLC,Automotive,Dzerzhinsk,Inactive
+ACC-1114,Oka Tech LLC,Food & Beverage,Nizhny Novgorod,Active
+ACC-1115,Oka Med LLC,Metallurgy,Dzerzhinsk,Active
+ACC-1116,Rus Prom LLC,Chemicals,Dzerzhinsk,Active
+ACC-1117,Volga Chem LLC,Food & Beverage,Nizhny Novgorod,Active
+ACC-1118,Rus Zavod LLC,Healthcare,Nizhny Novgorod,Active
+ACC-1119,Gorky Chem LLC,Chemicals,Dzerzhinsk,Onboarding
+ACC-1120,Nizhny Food LLC,Chemicals,Nizhny Novgorod,Active
+ACC-1121,Rus Group LLC,Automotive,Nizhny Novgorod,Onboarding
+ACC-1122,Rus Med LLC,Food & Beverage,Kstovo,Active
+ACC-1123,Nizhny Steel LLC,Metallurgy,Nizhny Novgorod,Active
+ACC-1124,Euro Prom LLC,Automotive,Nizhny Novgorod,Active
+ACC-1125,Gorky Group LLC,Food & Beverage,Nizhny Novgorod,Active
+ACC-1126,Gaz Motors LLC,Chemicals,Bor,Active
+ACC-1127,Nizhny Chem LLC,Food & Beverage,Nizhny Novgorod,Active
+ACC-1128,Sormovo Food LLC,Healthcare,Nizhny Novgorod,Active
+ACC-1129,Avto Motors LLC,Automotive,Arzamas,Inactive
+ACC-1130,Sormovo Tech LLC,Automotive,Nizhny Novgorod,Active
+ACC-1131,Nizhny Tech LLC,Chemicals,Nizhny Novgorod,Onboarding
+ACC-1132,Gaz Alloys LLC,Chemicals,Nizhny Novgorod,Inactive
+ACC-1133,Avto Med LLC,Food & Beverage,Nizhny Novgorod,Onboarding
+ACC-1134,Euro Motors LLC,Automotive,Nizhny Novgorod,Active
+ACC-1135,Tech Motors LLC,Healthcare,Nizhny Novgorod,Onboarding
+ACC-1136,Sormovo Med LLC,Chemicals,Kstovo,Active
+ACC-1137,Tech Chem LLC,Electronics,Dzerzhinsk,Onboarding
+ACC-1138,Rus Steel LLC,Food & Beverage,Nizhny Novgorod,Onboarding
+ACC-1139,Nizhny Steel LLC,Automotive,Nizhny Novgorod,Active
+ACC-1140,Rus Tech LLC,Automotive,Arzamas,Active
+ACC-1141,Oka Group LLC,Food & Beverage,Nizhny Novgorod,Onboarding
+ACC-1142,Tech Tech LLC,Food & Beverage,Nizhny Novgorod,Onboarding
+ACC-1143,Tech Med LLC,Healthcare,Nizhny Novgorod,Onboarding
+ACC-1144,Gorky Chem LLC,Food & Beverage,Kstovo,Onboarding
+ACC-1145,Oka Group LLC,Healthcare,Nizhny Novgorod,Active
+ACC-1146,Volga Group LLC,Chemicals,Nizhny Novgorod,Active
+ACC-1147,Oka Zavod LLC,Metallurgy,Dzerzhinsk,Inactive
+ACC-1148,Oka Group LLC,Automotive,Nizhny Novgorod,Onboarding
+ACC-1149,Avto Food LLC,Electronics,Nizhny Novgorod,Inactive
+ACC-1150,Euro Group LLC,Metallurgy,Nizhny Novgorod,Active

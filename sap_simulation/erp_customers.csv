@@ -1,0 +1,151 @@
+CustomerID,Name,City,CreditLimit
+ACC-1001,Gaz Prom LLC,Nizhny Novgorod,399517
+ACC-1002,Nizhny Med LLC,Dzerzhinsk,200251
+ACC-1003,Volga Food LLC,Nizhny Novgorod,282021
+ACC-1004,Rus Zavod LLC,Bor,368530
+ACC-1005,Sormovo Motors LLC,Kstovo,342044
+ACC-1006,Oka Alloys LLC,Kstovo,103600
+ACC-1007,Oka Med LLC,Nizhny Novgorod,122090
+ACC-1008,Tech Tech LLC,Bor,477588
+ACC-1009,Oka Food LLC,Nizhny Novgorod,146593
+ACC-1010,Euro Motors LLC,Bor,471692
+ACC-1011,Avto Motors LLC,Nizhny Novgorod,25108
+ACC-1012,Gorky Group LLC,Nizhny Novgorod,128709
+ACC-1013,Avto Med LLC,Nizhny Novgorod,67120
+ACC-1014,Gaz Zavod LLC,Nizhny Novgorod,293458
+ACC-1015,Tech Group LLC,Bor,289081
+ACC-1016,Nizhny Steel LLC,Nizhny Novgorod,292673
+ACC-1017,Tech Chem LLC,Nizhny Novgorod,311797
+ACC-1018,Avto Food LLC,Nizhny Novgorod,209882
+ACC-1019,Gorky Prom LLC,Nizhny Novgorod,473264
+ACC-1020,Oka Food LLC,Kstovo,290376
+ACC-1021,Tech Steel LLC,Arzamas,93905
+ACC-1022,Oka Tech LLC,Nizhny Novgorod,190544
+ACC-1023,Euro Chem LLC,Nizhny Novgorod,37722
+ACC-1024,Tech Chem LLC,Nizhny Novgorod,58820
+ACC-1025,Euro Chem LLC,Nizhny Novgorod,226330
+ACC-1026,Nizhny Zavod LLC,Nizhny Novgorod,18110
+ACC-1027,Rus Group LLC,Nizhny Novgorod,274962
+ACC-1028,Avto Steel LLC,Nizhny Novgorod,272976
+ACC-1029,Sormovo Zavod LLC,Nizhny Novgorod,345443
+ACC-1030,Euro Group LLC,Nizhny Novgorod,277655
+ACC-1031,Gaz Group LLC,Nizhny Novgorod,114940
+ACC-1032,Rus Food LLC,Dzerzhinsk,216543
+ACC-1033,Euro Steel LLC,Arzamas,450983
+ACC-1034,Sormovo Tech LLC,Nizhny Novgorod,316406
+ACC-1035,Volga Chem LLC,Bor,464683
+ACC-1036,Nizhny Food LLC,Nizhny Novgorod,321638
+ACC-1037,Tech Food LLC,Kstovo,357146
+ACC-1038,Sormovo Tech LLC,Nizhny Novgorod,359508
+ACC-1039,Tech Group LLC,Nizhny Novgorod,479061
+ACC-1040,Volga Motors LLC,Kstovo,255973
+ACC-1041,Gaz Alloys LLC,Bor,152251
+ACC-1042,Oka Prom LLC,Bor,157311
+ACC-1043,Gaz Zavod LLC,Arzamas,191331
+ACC-1044,Volga Group LLC,Kstovo,442121
+ACC-1045,Euro Steel LLC,Nizhny Novgorod,81345
+ACC-1046,Euro Chem LLC,Nizhny Novgorod,155747
+ACC-1047,Gorky Prom LLC,Nizhny Novgorod,20460
+ACC-1048,Gaz Chem LLC,Nizhny Novgorod,231027
+ACC-1049,Tech Food LLC,Nizhny Novgorod,233708
+ACC-1050,Gaz Food LLC,Nizhny Novgorod,208898
+ACC-1051,Avto Prom LLC,Nizhny Novgorod,81446
+ACC-1052,Volga Prom LLC,Nizhny Novgorod,221549
+ACC-1053,Gorky Med LLC,Nizhny Novgorod,116660
+ACC-1054,Nizhny Prom LLC,Nizhny Novgorod,223522
+ACC-1055,Gaz Group LLC,Nizhny Novgorod,135440
+ACC-1056,Rus Zavod LLC,Nizhny Novgorod,118553
+ACC-1057,Gorky Motors LLC,Bor,348098
+ACC-1058,Volga Motors LLC,Arzamas,443306
+ACC-1059,Gorky Chem LLC,Nizhny Novgorod,45063
+ACC-1060,Nizhny Motors LLC,Nizhny Novgorod,318294
+ACC-1061,Tech Group LLC,Nizhny Novgorod,435879
+ACC-1062,Oka Zavod LLC,Arzamas,359362
+ACC-1063,Gorky Group LLC,Nizhny Novgorod,349069
+ACC-1064,Tech Zavod LLC,Nizhny Novgorod,467494
+ACC-1065,Gaz Motors LLC,Nizhny Novgorod,253229
+ACC-1066,Oka Food LLC,Nizhny Novgorod,345762
+ACC-1067,Oka Tech LLC,Kstovo,469073
+ACC-1068,Volga Chem LLC,Nizhny Novgorod,454211
+ACC-1069,Sormovo Chem LLC,Nizhny Novgorod,172842
+ACC-1070,Volga Motors LLC,Nizhny Novgorod,250048
+ACC-1071,Gorky Zavod LLC,Nizhny Novgorod,126860
+ACC-1072,Nizhny Food LLC,Arzamas,89423
+ACC-1073,Avto Motors LLC,Nizhny Novgorod,131363
+ACC-1074,Gaz Food LLC,Nizhny Novgorod,465150
+ACC-1075,Gaz Prom LLC,Nizhny Novgorod,350956
+ACC-1076,Gaz Zavod LLC,Nizhny Novgorod,87980
+ACC-1077,Sormovo Tech LLC,Nizhny Novgorod,476655
+ACC-1078,Tech Med LLC,Bor,145436
+ACC-1079,Rus Zavod LLC,Nizhny Novgorod,161277
+ACC-1080,Nizhny Alloys LLC,Nizhny Novgorod,355916
+ACC-1081,Volga Steel LLC,Nizhny Novgorod,191307
+ACC-1082,Gorky Zavod LLC,Nizhny Novgorod,363584
+ACC-1083,Tech Motors LLC,Nizhny Novgorod,420352
+ACC-1084,Avto Food LLC,Nizhny Novgorod,160535
+ACC-1085,Nizhny Steel LLC,Bor,427659
+ACC-1086,Tech Med LLC,Nizhny Novgorod,170844
+ACC-1087,Gorky Alloys LLC,Nizhny Novgorod,479469
+ACC-1088,Avto Tech LLC,Dzerzhinsk,443311
+ACC-1089,Sormovo Food LLC,Nizhny Novgorod,471084
+ACC-1090,Tech Steel LLC,Arzamas,489887
+ACC-1091,Avto Food LLC,Nizhny Novgorod,49874
+ACC-1092,Tech Chem LLC,Nizhny Novgorod,361589
+ACC-1093,Euro Motors LLC,Kstovo,14515
+ACC-1094,Oka Alloys LLC,Nizhny Novgorod,489974
+ACC-1095,Gorky Tech LLC,Nizhny Novgorod,451607
+ACC-1096,Euro Steel LLC,Nizhny Novgorod,205003
+ACC-1097,Sormovo Group LLC,Nizhny Novgorod,298544
+ACC-1098,Rus Motors LLC,Nizhny Novgorod,147720
+ACC-1099,Rus Med LLC,Arzamas,40156
+ACC-1100,Sormovo Tech LLC,Kstovo,342073
+ACC-1101,Volga Alloys LLC,Nizhny Novgorod,79130
+ACC-1102,Avto Alloys LLC,Nizhny Novgorod,11623
+ACC-1103,Oka Motors LLC,Arzamas,334394
+ACC-1104,Euro Alloys LLC,Nizhny Novgorod,137396
+ACC-1105,Gorky Alloys LLC,Nizhny Novgorod,213189
+ACC-1106,Avto Tech LLC,Nizhny Novgorod,251008
+ACC-1107,Nizhny Chem LLC,Arzamas,92198
+ACC-1108,Oka Med LLC,Arzamas,286530
+ACC-1109,Euro Chem LLC,Bor,113047
+ACC-1110,Gaz Med LLC,Nizhny Novgorod,34182
+ACC-1111,Oka Chem LLC,Nizhny Novgorod,199502
+ACC-1112,Euro Med LLC,Nizhny Novgorod,194861
+ACC-1113,Volga Motors LLC,Dzerzhinsk,93603
+ACC-1114,Oka Tech LLC,Nizhny Novgorod,231946
+ACC-1115,Oka Med LLC,Dzerzhinsk,491981
+ACC-1116,Rus Prom LLC,Dzerzhinsk,307813
+ACC-1117,Volga Chem LLC,Nizhny Novgorod,28097
+ACC-1118,Rus Zavod LLC,Nizhny Novgorod,466896
+ACC-1119,Gorky Chem LLC,Dzerzhinsk,231497
+ACC-1120,Nizhny Food LLC,Nizhny Novgorod,384447
+ACC-1121,Rus Group LLC,Nizhny Novgorod,123305
+ACC-1122,Rus Med LLC,Kstovo,152414
+ACC-1123,Nizhny Steel LLC,Nizhny Novgorod,388276
+ACC-1124,Euro Prom LLC,Nizhny Novgorod,351548
+ACC-1125,Gorky Group LLC,Nizhny Novgorod,251726
+ACC-1126,Gaz Motors LLC,Bor,40947
+ACC-1127,Nizhny Chem LLC,Nizhny Novgorod,74819
+ACC-1128,Sormovo Food LLC,Nizhny Novgorod,15367
+ACC-1129,Avto Motors LLC,Arzamas,296422
+ACC-1130,Sormovo Tech LLC,Nizhny Novgorod,352997
+ACC-1131,Nizhny Tech LLC,Nizhny Novgorod,152305
+ACC-1132,Gaz Alloys LLC,Nizhny Novgorod,123445
+ACC-1133,Avto Med LLC,Nizhny Novgorod,109191
+ACC-1134,Euro Motors LLC,Nizhny Novgorod,391564
+ACC-1135,Tech Motors LLC,Nizhny Novgorod,238438
+ACC-1136,Sormovo Med LLC,Kstovo,41478
+ACC-1137,Tech Chem LLC,Dzerzhinsk,315702
+ACC-1138,Rus Steel LLC,Nizhny Novgorod,356878
+ACC-1139,Nizhny Steel LLC,Nizhny Novgorod,338192
+ACC-1140,Rus Tech LLC,Arzamas,455943
+ACC-1141,Oka Group LLC,Nizhny Novgorod,135542
+ACC-1142,Tech Tech LLC,Nizhny Novgorod,38501
+ACC-1143,Tech Med LLC,Nizhny Novgorod,422223
+ACC-1144,Gorky Chem LLC,Kstovo,116683
+ACC-1145,Oka Group LLC,Nizhny Novgorod,111835
+ACC-1146,Volga Group LLC,Nizhny Novgorod,313126
+ACC-1147,Oka Zavod LLC,Dzerzhinsk,347911
+ACC-1148,Oka Group LLC,Nizhny Novgorod,88983
+ACC-1149,Avto Food LLC,Nizhny Novgorod,250352
+ACC-1150,Euro Group LLC,Nizhny Novgorod,156329

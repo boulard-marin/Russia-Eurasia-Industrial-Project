@@ -1,0 +1,21 @@
+VendorID,Name,City,Type
+VEND-101,Nizhny Energy,Nizhny Novgorod,Energy
+VEND-102,Volga Logistics,Nizhny Novgorod,Equipment
+VEND-103,Nizhny Logistics,Nizhny Novgorod,Services
+VEND-104,Volga Energy,Nizhny Novgorod,Transport
+VEND-105,Euro Logistics,Nizhny Novgorod,Transport
+VEND-106,Nizhny Logistics,Nizhny Novgorod,Transport
+VEND-107,Euro Energy,Nizhny Novgorod,Energy
+VEND-108,Volga Energy,Nizhny Novgorod,Services
+VEND-109,Euro Logistics,Nizhny Novgorod,Transport
+VEND-110,Euro Services,Nizhny Novgorod,Transport
+VEND-111,Volga Energy,Nizhny Novgorod,Energy
+VEND-112,Nizhny Logistics,Nizhny Novgorod,Services
+VEND-113,Euro Energy,Nizhny Novgorod,Services
+VEND-114,Euro Energy,Nizhny Novgorod,Energy
+VEND-115,Volga Logistics,Nizhny Novgorod,Energy
+VEND-116,Nizhny Energy,Nizhny Novgorod,Services
+VEND-117,Euro Energy,Nizhny Novgorod,Services
+VEND-118,Euro Energy,Nizhny Novgorod,Services
+VEND-119,Euro Services,Nizhny Novgorod,Transport
+VEND-120,Nizhny Energy,Nizhny Novgorod,Services
