@@ -1,6 +1,0 @@
-# Internal Message Simulation
-
-[Strategy] Current Russia re-entry score remains WAIT/AVOID unless payment channels and insurance coverage normalize.
-[Compliance] All Russia scenarios require sanctions-screening gates before commercial action.
-[Finance] Base plant economics are not decision-ready without site-level energy tariff, tax, insurance and offtake data.
-[Operations] Kazakhstan/India comparison should be prioritized for near-term industrial pipeline.

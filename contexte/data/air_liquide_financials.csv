@@ -1,5 +1,0 @@
-company,year,metric,value,currency,source,source_url,quality
-Air Liquide,2024,revenue_million_eur,27058.0,EUR,Air Liquide 2024 annual results / Universal Registration Document,https://www.airliquide.com/investors/regulated-information,REAL SOURCE VALUE - verify against official PDF if reused in regulated work
-Air Liquide,2024,operating_margin_pct_excluding_energy_passthrough,19.6,pct,Air Liquide 2024 annual results / Universal Registration Document,https://www.airliquide.com/investors/regulated-information,REAL SOURCE VALUE - verify against official PDF if reused in regulated work
-Air Liquide,2024,net_profit_group_share_million_eur,3314.0,EUR,Air Liquide 2024 annual results / Universal Registration Document,https://www.airliquide.com/investors/regulated-information,REAL SOURCE VALUE - verify against official PDF if reused in regulated work
-Air Liquide,2024,industrial_project_capex_benchmark_base_million_eur,200.0,EUR,ASSUMPTION based on disclosed Air Liquide industrial project announcements and sector benchmark range,https://www.airliquide.com/group/press-releases-news,"ASSUMPTION - use as simulation input, not historical financial statement"

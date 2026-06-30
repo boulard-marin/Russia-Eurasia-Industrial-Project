@@ -1,69 +1,50 @@
-# Guide des Dossiers et des Données (CSV & Structure)
+# Guide des Dossiers et des Données (Structure & Archives Russie)
 
-Ce document décrit l'organisation du dossier `contexte/` ainsi que le rôle et l'utilité de chaque fichier CSV pour vous aider à naviguer facilement dans le projet.
+Ce document décrit l'organisation du dossier `contexte/` après la réorganisation complète du projet. Il recense les rapports d'analyse stratégique, les archives d'images thématiques et les classeurs Excel sources.
 
 ---
 
 ## 📂 Structure du Répertoire `contexte/`
 
-Le dossier `contexte/` rassemble tous les éléments de base de données, de traitement de données et d'analyses stratégiques :
+Le dossier `contexte/` est désormais restructuré pour héberger les ressources réelles d'analyse de la Fédération de Russie :
 
-*   `contexte/data/` : Contient l'ensemble des bases de données sources (CSV) et les fichiers finaux consolidés.
-*   `contexte/excel/` : Contient les simulations financières Excel interactives et les tableaux de bord décisionnels.
-*   `contexte/python/` : Contient les scripts d'ingénierie de données (nettoyage, calcul des scores EIII, modélisation de ROI et génération de graphiques).
-*   `contexte/report/` : Contient les rapports d'analyse stratégique rédigés en français ainsi que le dossier `visuals/` regroupant les graphiques exportés.
-*   `contexte/slack_simulation/` : Contient des fichiers simulant les communications internes (échanges Slack) sur le projet eurasien.
-
----
-
-## 📊 Utilité des Fichiers CSV du Dossier `contexte/data/`
-
-Voici le détail de chaque fichier CSV présent dans le dossier [contexte/data/](file:///c:/Users/marin/OneDrive/Documents/MARIN%20école/Alternance/Projet%20Github/Projet%203/Russia-Eurasia-Industrial-Project/contexte/data/) :
-
-### 1. `merged_eurasia_analytics.csv` (Jeu de données principal)
-*   **Utilité** : C'est le fichier central consolidé. Il fusionne toutes les données économiques, énergétiques, industrielles, logistiques et de risque.
-*   **Contenu** : Pour chaque pays d'Eurasie (Russie, Chine, Inde, Kazakhstan, Turkménistan, Géorgie) et chaque année (2020 à 2025), il fournit l'ensemble des scores intermédiaires et le score final EIII (*Eastern Industrial Investment Index*). C'est ce fichier qui sert de source pour les dashboards Power BI.
-
-### 2. `air_liquide_financials.csv`
-*   **Utilité** : Modélise les données financières d'une entité fictive de gaz industriels (style Air Liquide) implantée en Russie.
-*   **Contenu** : CAPEX de construction des usines, OPEX annuels (électricité, maintenance, personnel), revenus des ventes de gaz (oxygène, azote, hydrogène) et cash-flows nets.
-
-### 3. `energy.csv`
-*   **Utilité** : Fournit les indicateurs liés au secteur de l'énergie.
-*   **Contenu** : Volumes de production de gaz et de pétrole, capacités d'exportation énergétique et prix de l'électricité (inversés pour le scoring).
-
-### 4. `industry.csv`
-*   **Utilité** : Évalue le tissu industriel de chaque pays.
-*   **Contenu** : Production chimique nationale, indice métallurgique et poids de l'industrie lourde locale.
-
-### 5. `logistics.csv`
-*   **Utilité** : Analyse les capacités de transport pour l'import/export de matériel lourd.
-*   **Contenu** : Densité du réseau ferroviaire, connectivité portuaire et indice de développement des corridors de transport régionaux.
-
-### 6. `macro_indicators.csv`
-*   **Utilité** : Regroupe les données de cadrage économique global.
-*   **Contenu** : PIB des pays, taux d'inflation (inversé pour le scoring) et flux d'investissements directs étrangers (IDE).
-
-### 7. `risk.csv`
-*   **Utilité** : Évalue la stabilité générale nécessaire à l'investissement.
-*   **Contenu** : Volatilité des devises locales, risques juridiques/réglementaires, coûts d'assurance et indice d'exposition aux sanctions.
-
-### 8. `sanctions_index.csv`
-*   **Utilité** : Modélise l'historique et la simulation future de la sévérité des sanctions.
-*   **Contenu** : Un index numérique traduisant l'impact des sanctions sur les transactions financières et les importations technologiques.
-
-### 9. `source_registry.csv`
-*   **Utilité** : Assure la traçabilité des données du projet.
-*   **Contenu** : Liens et références vers les bases de données institutionnelles (Banque Mondiale, Banque Centrale de Russie) pour chaque indicateur utilisé.
-
-### 10. `trade_flows.csv`
-*   **Utilité** : Décrit les échanges commerciaux du secteur.
-*   **Contenu** : Volumes d'importations et d'exportations de marchandises lourdes et de produits chimiques manufacturés.
+*   `contexte/rapport_opportunites_russie.md` : Rapport principal sur les opportunités d'investissement basé sur l'analyse point par point des images d'archives.
+*   `contexte/rapport_annexe_excel_russie.md` : Rapport d'analyse comparative internationale situant la Russie par rapport aux grandes puissances (CEI, BRICS, UE, USA, Japon) à partir des classeurs Excel de Rosstat.
+*   `contexte/analyse_brics_russie.xlsx` : Modèle Excel professionnel étendu regroupant les données de production de gaz, pétrole, charbon, électricité, acier brut et engrais de la Russie (2000-2024) tirées des sources BRICS et Rosstat.
+*   `contexte/russia_industrial_potential.png` : Graphique d'analyse d'impact illustrant la croissance de la production d'acier brut et d'engrais minéraux (secteurs clés des gaz industriels).
+*   `contexte/russia_energy_production.png` : Graphique d'évolution de la production d'énergie fossile en Russie (gaz naturel, pétrole brut, charbon) de 2000 à 2024.
+*   `contexte/russia_electricity_output.png` : Graphique d'évolution de la production totale d'électricité en Russie de 2000 à 2024.
+*   `contexte/russia_industrial_gas_drivers.png` : Graphique d'évolution de la production de métaux (acier) et de la chimie lourde (engrais minéraux) de 2000 à 2024.
+*   `contexte/Российский статистический ежегодник 2025.xls` : Annuaire statistique 2025 officiel de Rosstat (données comparatives mondiales).
+*   `contexte/показатели 2000-2024 гг..xls` : Classeur des indicateurs historiques détaillés de la Russie de 2000 à 2024.
+*   **Sous-dossiers d'images (PNG)** : Regroupent les graphiques d'évolution thématiques issus des archives.
 
 ---
 
-## 📈 Utilité des Fichiers CSV du Dossier `contexte/excel/`
+## 📂 Détail des Dossiers d'Images Thématiques
 
-### 1. `air_liquide_simulation.csv`
-*   **Utilité** : Utilisé pour alimenter les calculs de sensibilité de rentabilité dans le tableau de bord Excel.
-*   **Contenu** : Scénarios comparatifs de ROI et de délai de récupération (Break-Even) selon le coût de l'énergie locale et la prime de risque géopolitique appliquée.
+Chaque sous-dossier de `contexte/` contient les tracés de données historiques (généralement de 2010 à 2024) analysés dans le rapport principal :
+
+1.  **`contexte/Agriculture/`** : Superficies cultivées, récoltes céréalières, volumes de viande et production de bois.
+2.  **`contexte/Bank/`** : Indicateurs macroéconomiques généraux (PIB nominal en USD, taux d'investissement, part des secteurs dans le PIB).
+3.  **`contexte/Energy/`** : Production et consommation nationale d'énergie primaire et d'électricité, flux d'import/export de kWh.
+4.  **`contexte/Environnement/`** : Superficies des forêts exploitées, cultures pérennes et accès à l'eau potable.
+5.  **`contexte/External economic relation/`** : Balance courante, ratio exports/imports, réserves de change, IDE et taux de change du Rouble (RUB/USD).
+6.  **`contexte/Finance/`** : Solde budgétaire de l'État consolidated (déficit/excédent en % du PIB), masse monétaire M2 et impôts sur le revenu.
+7.  **`contexte/Industry/`** : Indice de production industrielle annuelle et volumes de production d'électricité.
+8.  **`contexte/Informations/`** : Pénétration d'Internet, lignes de téléphone fixes/mobiles et nombre de journaux quotidiens.
+9.  **`contexte/Labor/`** : Taux d'activité par genre, chômage (taux et volume) et répartition sectorielle de l'emploi.
+10. **`contexte/People/`** : Démographie globale (population urbaine/rurale, genre), taux de natalité, mortalité globale et infantile.
+11. **`contexte/Prices/`** : Indices de prix à la consommation (IPC / Inflation) et prix des producteurs industriels (IPP).
+12. **`contexte/Transport/`** : Longueur du réseau de voies ferrées en exploitation et volume du trafic ferroviaire/aérien de passagers.
+
+---
+
+## 📊 Classeurs Excel Sources (Rosstat)
+
+1.  **`Российский статистический ежегодник 2025.xls`**
+    *   **Contenu** : Regroupe des feuilles statistiques (26.1 à 26.53) comparant la Russie avec l'Union Européenne (Allemagne, France), les BRICS (Chine, Inde, Brésil), la CEI (Kazakhstan, Biélorussie), les États-Unis et le Japon.
+    *   **Indicateurs exploités** : Taux de chômage, coût moyen mensuel nominal du travail en devises, volumes de production physique d'électricité, de blé, de viande et balances des flux de commerce extérieur de biens.
+
+2.  **`показатели 2000-2024 гг..xls`**
+    *   **Contenu** : Séries temporelles longues et détaillées par section (Раздел 1 à 13) décrivant l'évolution socio-économique de la Russie depuis l'an 2000 (PIB, emploi, données de change, démographie).

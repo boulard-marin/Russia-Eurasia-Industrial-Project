@@ -1,4 +1,0 @@
-country,scenario_id,capex_million_eur,annual_revenue_million_eur,energy_opex_million_eur,logistics_cost_million_eur,operating_cashflow_million_eur,risk_adjusted_cashflow_million_eur,roi_brut_pct,roi_adjusted_pct,break_even_years,methodology_flag,decision_gate
-Russia,SCENARIO 1,200.0,61.75,11.12,4.32,1.23,0.56,0.62,0.28,359.87,ASSUMPTION - plant-level revenue/cost inputs are not publicly available,AVOID
-Russia,SCENARIO 2,200.0,77.9,14.02,5.45,1.56,1.09,0.78,0.55,183.39,ASSUMPTION - plant-level revenue/cost inputs are not publicly available,AVOID
-Russia,SCENARIO 3,200.0,95.0,17.1,6.65,1.9,1.67,0.95,0.84,119.62,ASSUMPTION - plant-level revenue/cost inputs are not publicly available,AVOID
