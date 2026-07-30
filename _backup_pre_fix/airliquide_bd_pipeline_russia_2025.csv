@@ -1,0 +1,32 @@
+﻿Opportunity_ID,Region_Oblast,Federal_District,EIII_Score,BD_Priority,Gas_Demand_Proxy_bln_rub,Est_CAPEX_Potential_M_EUR,O2_Score,N2_Score,H2_Score,CO2_Score,Top_Gas_Product,Key_Clients_Target,Stage_BD,Est_Revenue_M_EUR_yr,Sanctions_Risk_Lift_Multiplier,Revenue_Post_Sanctions_M_EUR_yr,Notes
+AL-RU-ТЮМЕ-2025,Тюменская область,Уральский,59.5,TIER 1 - CRITIQUE,2419.4,3.2,10.0,10.0,10.0,10.0,H2+CO2,Rosstat p.19-20,Prospection,0.48,2.5,1.2,EIII=59.5 | GasProxy=2419.4 Mrd RUB | TIER 1 - CRITIQUE
+AL-RU-ХАНТ-2025,Ханты-Мансийский АО – Югра,Уральский,37.2,TIER 1 - CRITIQUE,1349.1,1.8,10.0,10.0,10.0,5.4,H2+CO2,Rosstat p.19-20,Prospection,0.27,2.5,0.67,EIII=37.2 | GasProxy=1349.1 Mrd RUB | TIER 1 - CRITIQUE
+AL-RU-Г.М-2025,г. Москва,Центральный,92.3,TIER 1 - CRITIQUE,956.4,1.3,10.0,10.0,10.0,10.0,H2+CO2,Rosstat p.19-20,Prospection,0.19,2.5,0.47,EIII=92.3 | GasProxy=956.4 Mrd RUB | TIER 1 - CRITIQUE
+AL-RU-КРАС-2025,Красноярский край,Сибирский,48.6,TIER 1 - CRITIQUE,747.4,1.0,10.0,10.0,10.0,10.0,H2+CO2,Rosstat p.19-20,Prospection,0.15,2.5,0.37,EIII=48.6 | GasProxy=747.4 Mrd RUB | TIER 1 - CRITIQUE
+AL-RU-ЯМАЛ-2025,Ямало-Ненецкий АО,Уральский,49.5,TIER 1 - CRITIQUE,726.8,1.0,10.0,10.0,6.0,2.3,O2+N2,Rosstat p.19-20,Prospection,0.14,2.5,0.36,EIII=49.5 | GasProxy=726.8 Mrd RUB | TIER 1 - CRITIQUE
+AL-RU-МОСК-2025,Московская область,Центральный,71.1,TIER 1 - CRITIQUE,724.8,1.0,10.0,10.0,10.0,10.0,H2+CO2,Rosstat p.19-20,Prospection,0.14,2.5,0.36,EIII=71.1 | GasProxy=724.8 Mrd RUB | TIER 1 - CRITIQUE
+AL-RU-РЕСП-2025,Республика Татарстан,Приволжский,53.0,TIER 1 - CRITIQUE,615.0,0.8,10.0,10.0,10.0,10.0,H2+CO2,Rosstat p.19-20,Prospection,0.12,2.5,0.3,EIII=53.0 | GasProxy=615.0 Mrd RUB | TIER 1 - CRITIQUE
+AL-RU-СВЕР-2025,Свердловская область,Уральский,51.0,TIER 1 - CRITIQUE,595.7,0.8,10.0,10.0,10.0,10.0,H2+CO2,Rosstat p.19-20,Prospection,0.12,2.5,0.29,EIII=51.0 | GasProxy=595.7 Mrd RUB | TIER 1 - CRITIQUE
+AL-RU-КЕМЕ-2025,Кемеровская область,Сибирский,45.4,TIER 1 - CRITIQUE,550.0,0.7,10.0,10.0,10.0,9.2,H2+CO2,Rosstat p.19-20,Prospection,0.11,2.5,0.27,EIII=45.4 | GasProxy=550.0 Mrd RUB | TIER 1 - CRITIQUE
+AL-RU-Г.С-2025,г. Санкт-Петербург,Северо-Западный,52.4,TIER 1 - CRITIQUE,525.8,0.7,10.0,10.0,10.0,10.0,H2+CO2,Rosstat p.19-20,Prospection,0.1,2.5,0.26,EIII=52.4 | GasProxy=525.8 Mrd RUB | TIER 1 - CRITIQUE
+AL-RU-ЧЕЛЯ-2025,Челябинская область,Уральский,32.6,TIER 2 - HAUTE,445.5,0.6,10.0,10.0,10.0,10.0,H2+CO2,Rosstat p.19-20,Prospection,0.09,2.5,0.22,EIII=32.6 | GasProxy=445.5 Mrd RUB | TIER 2 - HAUTE
+AL-RU-ИРКУ-2025,Иркутская область,Сибирский,42.9,TIER 2 - HAUTE,441.1,0.6,10.0,10.0,10.0,9.3,H2+CO2,Rosstat p.19-20,Prospection,0.09,2.5,0.22,EIII=42.9 | GasProxy=441.1 Mrd RUB | TIER 2 - HAUTE
+AL-RU-НИЖЕ-2025,Нижегородская область,Приволжский,41.0,TIER 2 - HAUTE,398.4,0.5,10.0,10.0,10.0,10.0,H2+CO2,Rosstat p.19-20,Prospection,0.08,2.5,0.2,EIII=41.0 | GasProxy=398.4 Mrd RUB | TIER 2 - HAUTE
+AL-RU-САМА-2025,Самарская область,Приволжский,41.0,TIER 2 - HAUTE,387.6,0.5,10.0,10.0,10.0,10.0,H2+CO2,Rosstat p.19-20,Prospection,0.08,2.5,0.19,EIII=41.0 | GasProxy=387.6 Mrd RUB | TIER 2 - HAUTE
+AL-RU-САХА-2025,Сахалинская область,Дальневосточный,35.6,TIER 2 - HAUTE,380.5,0.5,10.0,10.0,3.6,2.6,O2+N2,Rosstat p.19-20,Prospection,0.08,2.5,0.19,EIII=35.6 | GasProxy=380.5 Mrd RUB | TIER 2 - HAUTE
+AL-RU-РЕСП-2025,Республика Саха (Якутия),Дальневосточный,40.8,TIER 2 - HAUTE,377.5,0.5,10.0,10.0,3.7,2.9,O2+N2,Rosstat p.19-20,Prospection,0.07,2.5,0.19,EIII=40.8 | GasProxy=377.5 Mrd RUB | TIER 2 - HAUTE
+AL-RU-КРАС-2025,Краснодарский край,Южный,44.7,TIER 2 - HAUTE,366.6,0.5,10.0,10.0,10.0,10.0,H2+CO2,Rosstat p.19-20,Prospection,0.07,2.5,0.18,EIII=44.7 | GasProxy=366.6 Mrd RUB | TIER 2 - HAUTE
+AL-RU-РЕСП-2025,Республика Башкортостан,Приволжский,40.0,TIER 2 - HAUTE,352.9,0.5,10.0,10.0,10.0,10.0,H2+CO2,Rosstat p.19-20,Prospection,0.07,2.5,0.17,EIII=40.0 | GasProxy=352.9 Mrd RUB | TIER 2 - HAUTE
+AL-RU-ПЕРМ-2025,Пермский край,Приволжский,38.2,TIER 2 - HAUTE,349.5,0.5,10.0,10.0,10.0,10.0,H2+CO2,Rosstat p.19-20,Prospection,0.07,2.5,0.17,EIII=38.2 | GasProxy=349.5 Mrd RUB | TIER 2 - HAUTE
+AL-RU-ТЮМЕ-2025,Тюменская обл. без АО,Уральский,25.2,TIER 2 - HAUTE,343.6,0.5,10.0,10.0,10.0,10.0,H2+CO2,Rosstat p.19-20,Prospection,0.07,2.5,0.17,EIII=25.2 | GasProxy=343.6 Mrd RUB | TIER 2 - HAUTE
+AL-RU-ОРЕН-2025,Оренбургская область,Приволжский,19.3,TIER 2 - HAUTE,281.7,0.4,10.0,10.0,6.3,8.7,O2+N2,Rosstat p.19-20,Prospection,0.06,2.5,0.14,EIII=19.3 | GasProxy=281.7 Mrd RUB | TIER 2 - HAUTE
+AL-RU-РОСТ-2025,Ростовская область,Южный,37.7,TIER 2 - HAUTE,281.3,0.4,10.0,10.0,10.0,10.0,H2+CO2,Rosstat p.19-20,Prospection,0.06,2.5,0.14,EIII=37.7 | GasProxy=281.3 Mrd RUB | TIER 2 - HAUTE
+AL-RU-БЕЛГ-2025,Белгородская область,Центральный,11.8,TIER 2 - HAUTE,233.9,0.3,10.0,10.0,7.6,10.0,O2+N2,Rosstat Region_Pokaz_2025.pdf, Table 1.1 p.19-20,Prospection,0.05,2.5,0.12,EIII=11.8 | GasProxy=233.9 Mrd RUB | TIER 2 - HAUTE
+AL-RU-ВОЛГ-2025,Волгоградская область,Южный,29.4,TIER 2 - HAUTE,212.5,0.3,10.0,10.0,8.7,10.0,O2+N2,Rosstat p.19-20,Prospection,0.04,2.5,0.11,EIII=29.4 | GasProxy=212.5 Mrd RUB | TIER 2 - HAUTE
+AL-RU-ЛЕНИ-2025,Ленинградская область,Северо-Западный,34.1,TIER 2 - HAUTE,210.6,0.3,10.0,10.0,9.2,9.0,O2+N2,Rosstat p.19-20,Prospection,0.04,2.5,0.1,EIII=34.1 | GasProxy=210.6 Mrd RUB | TIER 2 - HAUTE
+AL-RU-НОВО-2025,Новосибирская область,Сибирский,30.7,TIER 2 - HAUTE,202.9,0.3,10.0,10.0,8.9,9.9,O2+N2,Rosstat p.19-20,Prospection,0.04,2.5,0.1,EIII=30.7 | GasProxy=202.9 Mrd RUB | TIER 2 - HAUTE
+AL-RU-ОМСК-2025,Омская область,Сибирский,26.8,TIER 2 - HAUTE,196.5,0.3,10.0,10.0,8.5,9.3,O2+N2,Rosstat p.19-20,Prospection,0.04,2.5,0.1,EIII=26.8 | GasProxy=196.5 Mrd RUB | TIER 2 - HAUTE
+AL-RU-ВОРО-2025,Воронежская область,Центральный,32.3,TIER 2 - HAUTE,185.3,0.2,10.0,10.0,7.7,10.0,O2+N2,Rosstat p.19-20,Prospection,0.04,2.5,0.09,EIII=32.3 | GasProxy=185.3 Mrd RUB | TIER 2 - HAUTE
+AL-RU-УДМУ-2025,Удмуртская Республика,Приволжский,28.9,TIER 2 - HAUTE,166.0,0.2,10.0,10.0,4.3,5.1,O2+N2,Rosstat p.19-20,Prospection,0.03,2.5,0.08,EIII=28.9 | GasProxy=166.0 Mrd RUB | TIER 2 - HAUTE
+AL-RU-САРА-2025,Саратовская область,Приволжский,29.9,TIER 2 - HAUTE,160.1,0.2,10.0,10.0,6.7,9.6,O2+N2,Rosstat p.19-20,Prospection,0.03,2.5,0.08,EIII=29.9 | GasProxy=160.1 Mrd RUB | TIER 2 - HAUTE
+AL-RU-РЕСП-2025,Республика Коми,Северо-Западный,23.9,TIER 2 - HAUTE,154.2,0.2,10.0,10.0,2.3,1.4,O2+N2,Rosstat p.19-20,Prospection,0.03,2.5,0.08,EIII=23.9 | GasProxy=154.2 Mrd RUB | TIER 2 - HAUTE
