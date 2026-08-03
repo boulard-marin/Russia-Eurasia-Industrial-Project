@@ -1,0 +1,196 @@
+# Power BI Analyse Russie : Strategic Market Assessment & Gas Demand Analysis (2025–2030)
+
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)](https://neo4j.com/)
+[![Gephi](https://img.shields.io/badge/Gephi-3B8FC2?style=for-the-badge&logo=gephi&logoColor=white)](https://gephi.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+---
+
+## 🎯 Aperçu Executive (BD & Supply Chain)
+
+Ce projet propose une analyse décisionnelle du marché des gaz industriels en Russie à l'horizon **2025–2030**. Conçu comme un outil d'arbitrage pour la **Direction Commerciale (Business Development)** et la **Direction des Opérations (Supply Chain)**, ce tableau de bord interactif modélise l'impact des scénarios géopolitiques sur :
+
+- Le chiffre d'affaires potentiel
+- La demande régionale
+- L'infrastructure logistique
+
+L'analyse combine une modélisation **Power BI**, une base de données **Neo4j** (graphe), et une visualisation **Gephi** pour identifier les hubs critiques, les dépendances régionales, et les risques d'interruption.
+
+---
+
+## 📊 Analyse Synthétique des Scénarios & Impacts
+
+L'analyse repose sur une baseline post-sanctions, projetée selon **quatre scénarios de reprise économique** :
+
+| Scénario | CA Estimé | Impact Croissance | Directive Business Development | Recommandation Supply Chain |
+|----------|-----------|-------------------|--------------------------------|----------------------------|
+| **Baseline Sanctions 2025** | **2,59 M€** | *-15,08 %* | **Verrouillage :** Sécuriser les comptes clés du Top 5 (Tyumen, Moscou, Tatarstan). | **Ligne de défense :** Contrats de transport longue durée sur les axes stratégiques. |
+| **Partial Lift 2026** | **3,65 M€** | *+19,67 %* | **Pénétration :** Activer le pipeline sur le Tier 2 / Top 15 (Sverdlovsk, Krasnoïarsk). | **Flexibilité :** Ajustement des capacités de stockage intermédiaire. |
+| **Full Lift 2027** | **5,18 M€** | *+69,84 %* | **Expansion :** Couverture agressive des zones industrielles intermédiaires. | **Maillage :** Diversification des modes de transport et ajout de hubs relais. |
+| **Recovery 2028** | **7,26 M€** | *+138,03 %* | **Conquête de l'Est :** Déploiement sur la Sibérie orientale (Irkoutsk, Yakoutie). | **Dimensionnement :** Augmentation des surfaces d'entrepôts régionaux. |
+| **Boom 2030** | **10,87 M€** | *+256,39 %* | **Domination :** Capture maximale des parts de marché (Demande : 19,11K Mrd RUB). | **Refonte :** Transition vers un réseau distribution à haute capacité (*Hub & Spoke*). |
+
+---
+
+## 🗺️ Cartographie & Matrice de Priorisation Régionale
+
+### 1. Vision Business Development : Ciblage & Part de Marché
+
+#### **Top 5 priorités absolues (Volume & Capitation) :**
+
+1. **Tyumen (12,66 % du marché)** : Épicentre gazier national, priorité N°1 pour les contrats majeurs.
+2. **Moscou & Oblast de Moscou (8,79 % cumulés)** : Concentrent les sièges décisionnels et la distribution.
+3. **République du Tatarstan (3,22 %)** : Core target pour les gaz de synthèse et la chimie lourde.
+4. **Saint-Pétersbourg (2,75 %)** : Hub portuaire et complexe industriel stratégique.
+
+#### **Bassin de croissance Tier 2 :**
+Les régions de **Sverdlovsk (3,12 %)**, **Krasnoïarsk (3,91 %)** et **Kemerovo (2,88 %)** constituent le relais de croissance prioritaire dès le scénario *Partial Lift*.
+
+---
+
+### 2. Vision Supply Chain : Contraintes & Maillage Réseau
+
+- **Densification à l'Ouest :** La cartographie démontre une concentration critique du marché dans la partie européenne et l'Oural. Risk management impératif sur les goulots d'étranglement logistiques routiers et ferroviaires.
+- **Passage à l'échelle (+256 % à horizon 2030) :** La hausse progressive des volumes nécessite l'ouverture anticipée de sous-hubs logistiques dans l'Oural (Sverdlovsk) et en Sibérie (Irkoutsk - 2,31 %) pour éviter la saturation du réseau central.
+
+---
+
+### 3. Structure des coûts par région (Mrd RUB)
+
+- Le graphique de gauche classe la facture gazière régionale en **milliards de roubles**.
+- Cela montre les puits financiers du marché intérieur russe : les régions comptant de gros complexes de transformation (raffinage, pétrochimie) et de grandes métropoles consomment du gaz pour des sommes considérables, ce qui en fait des acteurs prioritaires pour l'opérateur gazier (Gazprom) et l'État.
+
+---
+
+## 📈 Analyse de Corrélation : Score EIII vs Chiffre d'Affaires
+
+### Structure de la corrélation
+
+Le nuage de points croise deux variables par **Region_Oblast** :
+
+- **Axe X** : Score EIII Moyen Pondéré (de ~20 à 100)
+- **Axe Y** : Chiffre d'Affaires Estimé en M€ (de 0,0 M€ à 0,5 M€)
+
+### Tendances observées
+
+- **Plancher massif (faible CA)** : La grande majorité des points se concentrent en bas du graphique (CA < 0,1 M€) avec des scores EIII étalés entre 25 et 50. Cela correspond aux régions du bas du tableau (ex. *Sevastopol*, *Juive AO*, *Ivanovo*), qui ont un poids gazier marginal (*Gas_Demand_Share* < 0,5 %).
+- **Tendance centrale croissante** : On observe une corrélation positive modérée au centre : lorsque le **Score EIII** augmente de 40 à 55, le **Chiffre d'Affaires** monte progressivement de 0,1 M€ à ~0,15 M€.
+- **Anomalies / Valeurs extrêmes (*Outliers*)** :
+  1. **Le point très haut (~60 en EIII / ~0,48 M€ de CA)** : Représente la région avec la valeur économique la plus critique. Au vu du tableau, cela correspond à **Tyumen** qui capte à elle seule **12,66 %** de la demande globale de gaz.
+  2. **Le point à l'extrême droite (~92 en EIII / ~0,19 M€ de CA)** : Une région avec une criticité industrielle/infrastructurelle maximale (Score EIII très élevé), bien que son CA soit intermédiaire.
+  3. **Le point isolé en haut à gauche (~37 en EIII / ~0,27 M€ de CA)** : Une région à fort chiffre d'affaires mais au score EIII relativement modéré (probablement **Moscou** ou **Saint-Pétersbourg** qui ont un gros poids économique mais une criticité industrielle brute plus diluée).
+
+---
+
+### Croisement avec les données du tableau
+
+| Catégorie | Régions clés du tableau | Poids gazier (Gas Demand Share) | Impact sur la corrélation |
+|-----------|--------------------------|--------------------------------|---------------------------|
+| **TOP 5 (Super-hubs)** | *Tyumen*, *Moscou*, *Oblast de Moscou*, *Tatarstan*, *Saint-Pétersbourg* | **27,42 %** à elles seules (dont 12,66 % pour Tyumen) | Ce sont les points isolés en haut du graphique. Leurs volumes génèrent l'essentiel du chiffre d'affaires. |
+| **TOP 15 (Hubs secondaires)** | *Kemerovo*, *Krasnoïarsk*, *Sverdlovsk*, *Yamalo-Nenets*, etc. | **1,8 % à 3,9 %** par région | Ce sont les points formant le cluster intermédiaire (Score EIII 45–55, CA 0,10–0,15 M€). |
+| **Régions marginales** | *Kaliningrad*, *Kalouga*, *Bryansk*, *Sébastopol*, etc. | **< 1 %** par région | Forme le socle dense tout en bas du graphique (CA < 0,1 M€). |
+
+---
+
+### Conclusion stratégique
+
+- **Asymétrie majeure :** Le marché est ultra-concentré. Un tout petit nombre de régions (le TOP 5) génère l'essentiel du chiffre d'affaires et contrôle plus d'un quart de la demande de gaz.
+- **Score EIII vs CA :** Un Score EIII élevé ne garantit pas un CA massif, mais **les régions combinant un Score EIII > 50 et un fort pourcentage de demande gazière représentent les points névralgiques absolus** du réseau (combinaison de valeur financière et de risque industriel).
+
+---
+
+## 🔗 Analyse Graphe Neo4j & Gephi
+
+### Modélisation et Visualisation
+
+La modélisation sous forme de graphe (Neo4j) permet de visualiser clairement les dépendances (via les relations `BELONGS_TO`) entre :
+
+- Les régions spécifiques
+- Les districts fédéraux
+- Les acteurs industriels ou ressources clés (comme EVRAZ, NLMK, et le gaz)
+
+Les données extraites des fichiers `edges.csv` et `neo4j_query_table_data_2026-7-29.csv` ont permis de générer une analyse de réseau qui met en lumière des asymétries géographiques majeures en termes de dynamisme économique (Score EIII) et de dépendance énergétique (Demande en Gaz).
+
+---
+
+### Aperçu des Districts Fédéraux (Macro-régions)
+
+| District Fédéral | Score EIII Moyen | Demande en Gaz Totale | Région Moteur |
+|------------------|------------------|-----------------------|---------------|
+| **Oural (Уральский)** | 39.7 | 5931.8 | Oblast de Tioumen |
+| **Central (Центральный)** | 29.3 | 3338.2 | Moscou (Ville) |
+| **Volga (Приволжский)** | 31.1 | 3115.1 | République du Tatarstan |
+| **Sibérie (Сибирский)** | 30.6 | 2485.5 | Kraï de Krasnoïarsk |
+| **Nord-Ouest (Северо-Западный)** | 26.1 | 1487.3 | Saint-Pétersbourg |
+
+---
+
+### Points d'ancrage du réseau
+
+- **L'Oural est le cœur industriel et énergétique :** L'Oblast de Tioumen capte à elle seule une demande en gaz de 2419.4, ce qui montre une concentration massive de l'industrie lourde et de l'extraction.
+- **Le Centre est le pôle financier et décisionnel :** Moscou domine de manière écrasante le score d'attractivité/investissement (EIII) avec 92.3, bien au-dessus de la moyenne nationale (25.4).
+- **Les entités industrielles :** La présence de nœuds corporatifs comme NLMK et EVRAZ rappelle que l'économie repose lourdement sur la métallurgie, une industrie particulièrement gourmande en énergie (gaz).
+
+---
+
+### Centralité de Degré et d'Intermédiarité
+
+L'étude des **centralités de degré** (nombre de connexions directes) et des **centralités d'intermédiarité** (capacité d'un nœud à faire "le pont" entre d'autres nœuds) révèle des failles structurelles précises dans l'organisation territoriale et économique.
+
+#### 1. Les Piliers Administratifs (Forte Centralité de Degré)
+
+- **Le District Central (Центральный)** est le super-nœud absolu de votre graphe avec le score de centralité de degré le plus élevé (0.187). Il regroupe le plus grand nombre de sous-régions.
+- **Vulnérabilité face aux chocs :** Ces macro-régions agissent comme des "goulots d'étranglement" administratifs. Si le centre (notamment Moscou avec son score EIII de 92.3) subit une crise de liquidité due à des sanctions financières, la répercussion est immédiate sur toutes les régions qui y sont rattachées, car elles dépendent de ce nœud central pour la redistribution.
+
+#### 2. Les Régions "Ponts" et le Risque Industriel (Centralité d'Intermédiarité)
+
+Deux régions se détachent avec une centralité d'intermédiarité supérieure :
+
+- **L'Oblast de Lipetsk** (associé à l'entreprise NLMK)
+- **L'Oblast de Sverdlovsk** (associé à l'entreprise EVRAZ)
+
+Ces régions sont les seules (avec leurs entreprises) à faire le pont vers les nœuds `GasProduct` (via la relation `CONSUMES`).
+
+- **Vulnérabilité face aux chocs (Scénario de Sanctions) :** Lipetsk et Sverdlovsk sont des **points de défaillance uniques (Single Points of Failure)**. Si des sanctions ciblent spécifiquement les géants métallurgiques NLMK ou EVRAZ (blocage d'exportation d'acier), le choc économique ne se limitera pas aux entreprises. Il frappera directement l'Oblast de Lipetsk et l'Oblast de Sverdlovsk, détruisant l'écosystème local, et remontera la chaîne de valeur en coupant la consommation de gaz.
+- **Résilience sans sanctions :** Dans un marché ouvert, cette intermédiarité est une force. Ces régions captent la rente énergétique et industrielle de manière autonome, les rendant moins dépendantes des subventions fédérales du District Central.
+
+#### 3. L'Hyper-Concentration de l'Oural
+
+L'Oural présente une topologie dangereuse. Bien que le district fédère une immense demande de gaz (Proxy à 5931.8) tirée par l'Oblast de Tioumen (2419.4) et la présence d'EVRAZ à Sverdlovsk, son score EIII moyen reste modeste (39.7) comparé à l'activité qu'il génère.
+
+- **Le Choc Holistique :** L'Oural subit un effet "ciseaux". Si les prix de l'énergie s'effondrent (ou si un embargo sur le gaz réussit), l'Oblast de Tioumen s'effondre. Simultanément, si l'industrie lourde est sanctionnée, EVRAZ s'arrête, frappant Sverdlovsk. Toute la macro-région perdrait alors ses deux moteurs sans avoir l'attractivité d'investissement (EIII) nécessaire pour pivoter rapidement vers la tech ou les services.
+
+---
+
+## 🔮 Scénarios Prospectifs
+
+### Scénario 1 : L'Avenir SANS Sanctions Économiques
+
+Dans un contexte où les sanctions seraient levées ou inexistantes, le graphe économique russe se développerait de manière organique et mondialisée :
+
+- **Maximisation de la rente énergétique (Oural & Sibérie) :** La demande en gaz extrêmement élevée de l'Oural et la présence de géants métallurgiques se traduisent par une forte capacité d'exportation de produits à forte valeur ajoutée. L'absence de sanctions permet de moderniser l'appareil productif avec des technologies occidentales, augmentant le score EIII de ces régions.
+- **Moscou comme Hub Global :** Avec son score EIII de 92.3, Moscou attirerait massivement les capitaux étrangers, redistribuant les investissements vers des régions à fort potentiel mais sous-financées (comme le district d'Extrême-Orient, dont le score EIII n'est que de 24.6).
+- **Transition énergétique et diversification :** Les revenus tirés des exportations de gaz sans friction permettent à l'État de financer une diversification technologique, réduisant lentement la dépendance du budget fédéral aux hydrocarbures.
+
+---
+
+### Scénario 2 : L'Avenir AVEC Sanctions Économiques
+
+Dans ce scénario de maintien ou de durcissement des sanctions, l'analyse de votre graphe montre que la Russie est contrainte à une restructuration interne douloureuse mais stratégique :
+
+- **Le défi des "Actifs Échoués" (Stranded Assets) :** La production de gaz ne trouvant plus d'acheteurs européens traditionnels, l'Oblast de Tioumen et le district de l'Oural doivent réorienter leur immense production (5931.8) vers le marché intérieur. Cela force une industrialisation locale accélérée pour "consommer" ce gaz excédentaire.
+- **Pivot vers l'Est (Sibérie et Extrême-Orient) :** Les nœuds de l'Extrême-Orient (EIII à 24.6) et de la Sibérie nécessitent d'énormes injections de capitaux étatiques pour construire de nouveaux gazoducs vers l'Asie (comme la Force de Sibérie 2). Ces régions deviendront les nouveaux centres de gravité géopolitiques du pays au détriment du district Nord-Ouest (Saint-Pétersbourg), qui perd sa vocation de fenêtre sur l'Europe.
+- **Résilience par l'oligarchie industrielle :** Les entreprises liées à la métallurgie et aux matières premières (EVRAZ, NLMK) deviennent les piliers de l'économie de guerre ou d'autarcie. L'État s'appuie sur elles pour maintenir l'emploi, mais le manque de capitaux extérieurs fait stagner, voire régresser, les scores EIII à long terme dans les régions périphériques, concentrant la richesse sur un axe Moscou-Oural-Chine.
+
+---
+
+## 🧠 Synthèse Prospective
+
+Votre graphe démontre que l'économie russe est un réseau **"en étoile"** (Hub-and-Spoke) hautement vulnérable. Le pouvoir financier est verrouillé à Moscou, l'extraction de rente est isolée à Tioumen, et la transformation industrielle repose sur des "nœuds-ponts" solitaires (Lipetsk/NLMK, Sverdlovsk/EVRAZ).
+
+Sous sanctions prolongées, la rupture de l'un de ces ponts industriels (ex: faillite d'un conglomérat) fragmentera le graphe, isolant des régions entières de l'économie nationale.
+
+---
+
+## 🛠️ Structure du Projet
