@@ -1,8 +1,11 @@
 # Analyse CRM
 
 Lien vers la base NocoDB : https://app.nocodb.com/base/f90b217d-2c92-461c-b1ba-25cded9938d5
+Dashboard interactif : https://app.nocodb.com/nc/dashboard/d0267f05-a004-4682-968b-15ded2328465
 
-Résumé de l'audit du CRM (traduction française)
+<img width="1351" height="789" alt="image" src="https://github.com/user-attachments/assets/d8bb080a-011b-43d6-8348-c9bd25bfe8f8" />
+
+
 
 ## 1. Résumé exécutif & indicateurs clés (KPIs)
 
@@ -27,6 +30,8 @@ Répartition par étape
 - Négociation : 3
 - Closed-Won : 2
 - Closed-Lost : 2
+
+<img width="1343" height="742" alt="image" src="https://github.com/user-attachments/assets/13de236c-bf20-46b9-8b7c-c65637d55d62" />
 
 ## 2. Priorisation par tiers & analyse des risques
 
@@ -205,7 +210,7 @@ Mesures à suivre
 3. Sécuriser lignes de financement court terme pour les 5 projets Tier 1 prioritaires.
 4. Lancer revues hebdomadaires BD×Procurement avec dashboards sanctions.
 5. Établir stocks tampons pour tous les items critiques avec lead time > 120 jours.
+<img width="1357" height="777" alt="image" src="https://github.com/user-attachments/assets/35672fbd-454c-4986-bcc9-942741d7a4f3" />
+<img width="1359" height="786" alt="image" src="https://github.com/user-attachments/assets/da892644-e1af-484b-b5b8-1aafe621a569" />
+<img width="1350" height="754" alt="image" src="https://github.com/user-attachments/assets/5045cf9f-9a54-49ea-863e-3d92b2e88a32" />
 
----
-
-Fichier créé automatiquement à partir du contenu présent dans .gitkeep. Si vous voulez que je réduise, reformule, ou ajoute des sections (par exemple une FAQ, ou un sommaire plus détaillé par opportunité), dites-moi comment vous souhaitez organiser le README et je mettrai à jour le fichier.
